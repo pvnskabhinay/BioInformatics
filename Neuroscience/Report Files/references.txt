@@ -1,0 +1,12 @@
+https://cran.r-project.org/web/packages/qgraph/qgraph.pdf
+https://rdrr.io/cran/qgraph/man/smallworldness.html
+https://rpy2.readthedocs.io/en/version_2.8.x/introduction.html
+https://en.wikipedia.org/wiki/Small-world_network
+https://stats.stackexchange.com/a/211047
+mfinder
+https://connectivipy.readthedocs.io/en/latest/tutorial.html
+https://www.hindawi.com/journals/cmmm/2012/130985/
+http://amsdottorato.unibo.it/5271/1/toppi_jlenia_tesi.pdf
+https://www.researchgate.net/figure/Six-regions-over-scalp-Electrodes-divided-into-six-regions-over-scalp-as-frontal_fig1_263208783
+https://en.wikipedia.org/wiki/Brain_connectivity_estimators
+https://www.researchgate.net/figure/Schematic-display-of-EEG-electrode-positions-For-statistical-analyses-ERS-ERD-was_fig2_233539681

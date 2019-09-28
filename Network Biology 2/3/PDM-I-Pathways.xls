@@ -1,0 +1,1931 @@
+InnateDB ID	Query Xref	Species	Source Database	Pathway Name
+13198	ITGB3BP	Homo sapiens	REACTOME	NRIF signals cell death from the nucleus
+15480	NCOA1	Homo sapiens	PID_NCI	Regulation of nuclear SMAD2/3 signaling
+563	IKBKG	Homo sapiens	KEGG	T cell receptor signaling pathway
+14922	BCL3	Homo sapiens	PID_NCI	Atypical NF-kappaB pathway
+564	IKBKG	Homo sapiens	KEGG	Toll-like receptor signaling pathway
+10367	JAK1	Homo sapiens	KEGG	Osteoclast differentiation
+18647	VCP	Homo sapiens	REACTOME	Hedgehog ligand biogenesis
+12942	PSMD2	Homo sapiens	REACTOME	Separation of Sister Chromatids
+19598	TBK1	Homo sapiens	REACTOME	STAT6-mediated induction of chemokines
+15393	NFKB1	Homo sapiens	PID_NCI	Angiopoietin receptor Tie2-mediated signaling
+16121	NFKBIB	Homo sapiens	INOH	Toll-like receptor signaling pathway 
+14930	CBL	Homo sapiens	PID_NCI	TCR signaling in naïve CD8+ T cells
+19807	STAT1	Homo sapiens	REACTOME	Disease
+16239	IFNAR1	Homo sapiens	INOH	IFN alpha signaling
+19561	REL	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+18059	IRF8	Homo sapiens	REACTOME	Interferon Signaling
+13774	KPNA1	Homo sapiens	REACTOME	Integration of provirus
+17704	PSMD2	Homo sapiens	REACTOME	GLI3 is processed to GLI3R by the proteasome
+10355	JAK1	Homo sapiens	KEGG	Leishmaniasis
+13841	COPB2	Homo sapiens	REACTOME	COPI Mediated Transport
+12955	PSMD2	Homo sapiens	REACTOME	Cyclin A:Cdk2-associated events at S phase entry
+12954	PSMD2	Homo sapiens	REACTOME	SCF(Skp2)-mediated degradation of p27/p21
+14985	VAV1	Homo sapiens	PID_NCI	Regulation of RAC1 activity
+12946	PSMD2	Homo sapiens	REACTOME	Ubiquitin-dependent degradation of Cyclin D1
+12947	PSMD2	Homo sapiens	REACTOME	Switching of origins to a post-replicative state
+4082	VAV1	Homo sapiens	PID_BIOCARTA	Ras signaling pathway
+16110	NFKBIB	Homo sapiens	INOH	IL-1 signaling pathway 
+15915	STAM2	Homo sapiens	NETPATH	TCR
+16159	STAT5A	Homo sapiens	INOH	IL-5 signaling
+15918	STAM2	Homo sapiens	NETPATH	IL2
+17476	LYN	Homo sapiens	REACTOME	Innate Immune System
+17632	STAT1	Homo sapiens	REACTOME	Signaling by FGFR1 mutants
+544	IKBKG	Homo sapiens	KEGG	Prostate cancer
+18630	HMGA2	Homo sapiens	REACTOME	Cellular Senescence
+16151	STAT5A	Homo sapiens	INOH	EPO signaling pathway
+10367	PPARG	Homo sapiens	KEGG	Osteoclast differentiation
+16104	NFKBIB	Homo sapiens	INOH	CD4 T cell receptor signaling
+12965	PSMD2	Homo sapiens	REACTOME	Cyclin E associated events during G1/S transition 
+16125	STAT1	Homo sapiens	INOH	JAK STAT pathway and regulation
+531	SOCS1	Homo sapiens	KEGG	Insulin signaling pathway
+12961	PSMD2	Homo sapiens	REACTOME	Assembly of the pre-replicative complex
+18844	TYK2	Homo sapiens	REACTOME	IRS-related events
+12959	PSMD2	Homo sapiens	REACTOME	CDT1 association with the CDC6:ORC:origin complex
+13779	KPNA1	Homo sapiens	REACTOME	Early Phase of HIV Life Cycle
+15829	XRCC5	Homo sapiens	PID_NCI	DNA-PK pathway in nonhomologous end joining
+15908	STAM2	Homo sapiens	NETPATH	EGFR1
+14918	CBL	Homo sapiens	PID_NCI	EPHA forward signaling
+16149	STAT5A	Homo sapiens	INOH	Growth hormone signaling
+19557	IKBKG	Homo sapiens	REACTOME	Cytosolic sensors of pathogen-associated DNA 
+18488	CBL	Homo sapiens	REACTOME	SMAD2/3 Phosphorylation Motif Mutants in Cancer
+16144	STAT5A	Homo sapiens	INOH	IL-2 signaling
+13700	STAT1	Homo sapiens	REACTOME	Signaling by FGFR1 fusion mutants
+13885	NOTCH1	Homo sapiens	REACTOME	Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells
+18444	REL	Homo sapiens	REACTOME	Immune System
+13704	STAT1	Homo sapiens	REACTOME	Signaling by FGFR mutants
+16794	LYN	Homo sapiens	REACTOME	Developmental Biology
+16799	LYN	Homo sapiens	REACTOME	FCERI mediated NF-kB activation
+15913	DPF2	Homo sapiens	NETPATH	TNFalpha
+17826	ITGB3BP	Homo sapiens	REACTOME	p75 NTR receptor-mediated signalling
+519	SOCS1	Homo sapiens	KEGG	Ubiquitin mediated proteolysis
+19561	IKBKG	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+19190	BIRC3	Homo sapiens	REACTOME	Activated TLR4 signalling
+17662	JAK3	Homo sapiens	REACTOME	Platelet activation, signaling and aggregation
+19698	NR4A1	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+15751	TP63	Homo sapiens	PID_NCI	p63 transcription factor network
+12983	PSMD2	Homo sapiens	REACTOME	ER-Phagosome pathway
+12985	PSMD2	Homo sapiens	REACTOME	Cross-presentation of soluble exogenous antigens (endosomes)
+13324	LYN	Homo sapiens	REACTOME	Regulation of KIT signaling
+527	IKBKG	Homo sapiens	KEGG	Small cell lung cancer
+13325	LYN	Homo sapiens	REACTOME	Signaling by SCF-KIT
+13739	PPARG	Homo sapiens	REACTOME	Nuclear Receptor transcription pathway
+13262	GHR	Homo sapiens	REACTOME	Nuclear signaling by ERBB4
+15906	IL6ST	Homo sapiens	NETPATH	AndrogenReceptor
+12981	PSMD2	Homo sapiens	REACTOME	Antigen processing: Ubiquitination & Proteasome degradation
+14922	REL	Homo sapiens	PID_NCI	Atypical NF-kappaB pathway
+13265	GHR	Homo sapiens	REACTOME	Signaling by ERBB4
+5713	IKBKG	Homo sapiens	KEGG	RIG-I-like receptor signaling pathway
+17476	TBK1	Homo sapiens	REACTOME	Innate Immune System
+16715	TYK2	Homo sapiens	REACTOME	SHC-related events
+18444	NFKB1	Homo sapiens	REACTOME	Immune System
+532	IKBKG	Homo sapiens	KEGG	B cell receptor signaling pathway
+13725	KPNA1	Homo sapiens	REACTOME	Transport of Ribonucleoproteins into the Host Nucleus
+4044	VAV1	Homo sapiens	PID_BIOCARTA	Rho cell motility signaling pathway
+15133	IL6ST	Homo sapiens	PID_NCI	IL27-mediated signaling events
+18844	IRS2	Homo sapiens	REACTOME	IRS-related events
+17476	PLD3	Homo sapiens	REACTOME	Innate Immune System
+564	TBK1	Homo sapiens	KEGG	Toll-like receptor signaling pathway
+13003	GSK3B	Homo sapiens	REACTOME	DAP12 signaling
+15925	REL	Homo sapiens	NETPATH	RANKL
+15922	IL6ST	Homo sapiens	NETPATH	IL6
+15926	REL	Homo sapiens	NETPATH	Leptin
+12989	NR4A1	Homo sapiens	REACTOME	PIP3 activates AKT signaling
+13004	GSK3B	Homo sapiens	REACTOME	DAP12 interactions
+12986	NR4A1	Homo sapiens	REACTOME	AKT phosphorylates targets in the nucleus
+13003	VAV1	Homo sapiens	REACTOME	DAP12 signaling
+13004	VAV1	Homo sapiens	REACTOME	DAP12 interactions
+15864	XRCC5	Homo sapiens	PID_NCI	Regulation of Telomerase
+13005	VAV1	Homo sapiens	REACTOME	Regulation of actin dynamics for phagocytic cup formation
+13210	IRS2	Homo sapiens	REACTOME	Signal attenuation
+13212	IRS2	Homo sapiens	REACTOME	GAB1 signalosome
+17405	LYN	Homo sapiens	REACTOME	Role of LAT2/NTAL/LAB on calcium mobilization
+13209	IRS2	Homo sapiens	REACTOME	SOS-mediated signalling
+17076	GSK3B	Homo sapiens	REACTOME	Regulation of HSF1-mediated heat shock response
+17789	GSK3B	Homo sapiens	REACTOME	Axon guidance
+4180	JAK3	Homo sapiens	PID_BIOCARTA	Il-7 signal transduction
+15791	JAK1	Homo sapiens	PID_NCI	IL2 signaling events mediated by PI3K
+15917	REL	Homo sapiens	NETPATH	IL1
+19400	FBXW11	Homo sapiens	REACTOME	Mitotic G2-G2/M phases
+15916	REL	Homo sapiens	NETPATH	BCR
+4020	STAT5A	Homo sapiens	PID_BIOCARTA	Epo signaling pathway
+13906	GSK3B	Homo sapiens	REACTOME	CRMPs in Sema3A signaling
+17476	GSK3B	Homo sapiens	REACTOME	Innate Immune System
+15915	REL	Homo sapiens	NETPATH	TCR
+15913	REL	Homo sapiens	NETPATH	TNFalpha
+13742	PPARG	Homo sapiens	REACTOME	Generic Transcription Pathway
+17802	LYN	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+17874	NOTCH1	Homo sapiens	REACTOME	FBXW7 Mutants and NOTCH1 in Cancer
+15906	PELP1	Homo sapiens	NETPATH	AndrogenReceptor
+15905	IRS2	Homo sapiens	NETPATH	Alpha6Beta4Integrin
+15908	IRS2	Homo sapiens	NETPATH	EGFR1
+17418	LYN	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+15595	NR4A1	Homo sapiens	PID_NCI	Role of Calcineurin-dependent NFAT signaling in lymphocytes
+15384	NFKB1	Homo sapiens	PID_NCI	BCR signaling pathway
+568	STAM2	Homo sapiens	KEGG	Jak-STAT signaling pathway
+19561	CBL	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+15094	NOTCH1	Homo sapiens	PID_NCI	Presenilin action in Notch and Wnt signaling
+4011	STAT5A	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+15063	STAT5A	Homo sapiens	PID_NCI	Validated nuclear estrogen receptor alpha network
+13010	TBK1	Homo sapiens	REACTOME	ZBP1(DAI) mediated induction of type I IFNs
+13012	TBK1	Homo sapiens	REACTOME	TRAF6 mediated IRF7 activation
+13011	TBK1	Homo sapiens	REACTOME	STING mediated induction of host immune responses
+15770	JAK1	Homo sapiens	PID_NCI	PDGFR-alpha signaling pathway
+13014	TBK1	Homo sapiens	REACTOME	TRAF3-dependent IRF activation pathway
+13013	TBK1	Homo sapiens	REACTOME	Negative regulators of RIG-I/MDA5 signaling
+521	GSK3B	Homo sapiens	KEGG	Alzheimer's disease
+13017	TBK1	Homo sapiens	REACTOME	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+13470	NCOA1	Homo sapiens	REACTOME	Regulation of cholesterol biosynthesis by SREBP (SREBF)
+19507	BIRC3	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+19507	IKBKG	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+13330	TYK2	Homo sapiens	REACTOME	Signaling by PDGF
+19000	IRS2	Homo sapiens	REACTOME	IGF1R signaling cascade
+15286	GSK3B	Homo sapiens	PID_NCI	LKB1 signaling events
+17449	VAV1	Homo sapiens	REACTOME	Signaling by GPCR
+15289	GSK3B	Homo sapiens	PID_NCI	p53 pathway
+16151	TYK2	Homo sapiens	INOH	EPO signaling pathway
+4134	NR3C1	Homo sapiens	PID_BIOCARTA	Carm1 and regulation of the estrogen receptor
+15010	NCOA1	Homo sapiens	PID_NCI	RXR and RAR heterodimerization with other nuclear receptor
+13469	NCOA1	Homo sapiens	REACTOME	Activation of gene expression by SREBF (SREBP)
+16106	JAK3	Homo sapiens	INOH	IL-7 signaling
+16108	JAK3	Homo sapiens	INOH	IL-4 signaling
+13465	NCOA1	Homo sapiens	REACTOME	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+424	STAT5A	Homo sapiens	KEGG	Acute myeloid leukemia
+13466	NCOA1	Homo sapiens	REACTOME	Synthesis of bile acids and bile salts via 27-hydroxycholesterol
+15413	NCOA1	Homo sapiens	PID_NCI	Retinoic acid receptors-mediated signaling
+13467	NCOA1	Homo sapiens	REACTOME	Synthesis of bile acids and bile salts
+13468	NCOA1	Homo sapiens	REACTOME	Recycling of bile acids and salts
+13329	TYK2	Homo sapiens	REACTOME	Downstream signal transduction
+15321	NFKB1	Homo sapiens	PID_NCI	Glucocorticoid receptor regulatory network
+13216	IRS2	Homo sapiens	REACTOME	Signaling by EGFR
+13009	TBK1	Homo sapiens	REACTOME	IRF3 mediated activation of type 1 IFN
+506	GSK3B	Homo sapiens	KEGG	Endometrial cancer
+15377	JAK1	Homo sapiens	PID_NCI	p73 transcription factor network
+19507	TBK1	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+15583	IL6ST	Homo sapiens	PID_NCI	SHP2 signaling
+15296	GSK3B	Homo sapiens	PID_NCI	Integrin-linked kinase signaling
+13325	TYK2	Homo sapiens	REACTOME	Signaling by SCF-KIT
+12989	IRS2	Homo sapiens	REACTOME	PIP3 activates AKT signaling
+4140	NR3C1	Homo sapiens	PID_BIOCARTA	Chromatin remodeling by hswi/snf atp-dependent complexes
+15864	NFKB1	Homo sapiens	PID_NCI	Regulation of Telomerase
+15671	NOTCH1	Homo sapiens	PID_NCI	Validated transcriptional targets of deltaNp63 isoforms
+15863	NFKB1	Homo sapiens	PID_NCI	HIV-1 Nef: Negative effector of Fas and TNF-alpha
+13320	TYK2	Homo sapiens	REACTOME	Signaling by FGFR
+17361	PSMD2	Homo sapiens	REACTOME	Mitotic G1-G1/S phases
+13457	NCOA1	Homo sapiens	REACTOME	PPARA activates gene expression
+18744	IL6ST	Homo sapiens	REACTOME	Signaling by Interleukins
+13030	TBK1	Homo sapiens	REACTOME	MyD88-independent cascade 
+4159	NR3C1	Homo sapiens	PID_BIOCARTA	Nfkb activation by nontypeable hemophilus influenzae
+13458	NCOA1	Homo sapiens	REACTOME	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+13031	TBK1	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+544	GSK3B	Homo sapiens	KEGG	Prostate cancer
+15297	CBL	Homo sapiens	PID_NCI	EPO signaling pathway
+4389	GSK3B	Homo sapiens	KEGG	Chemokine signaling pathway
+16136	TYK2	Homo sapiens	INOH	IL-12 signaling
+457	NFKB1	Homo sapiens	KEGG	Epithelial cell signaling in Helicobacter pylori infection
+17979	KPNA1	Homo sapiens	REACTOME	Apoptosis
+13310	TYK2	Homo sapiens	REACTOME	FRS2-mediated cascade
+18888	VAV1	Homo sapiens	REACTOME	Fcgamma receptor (FCGR) dependent phagocytosis
+16134	TYK2	Homo sapiens	INOH	IL-13 signaling
+16125	JAK3	Homo sapiens	INOH	JAK STAT pathway and regulation
+19164	XRCC5	Homo sapiens	REACTOME	HIV Infection
+19770	NOTCH1	Homo sapiens	REACTOME	Gene Expression
+15836	NFKB1	Homo sapiens	PID_NCI	amb2 Integrin signaling
+18371	IRS2	Homo sapiens	REACTOME	Adaptive Immune System
+16188	NOTCH1	Homo sapiens	INOH	Notch signaling pathway
+4023	VAV1	Homo sapiens	PID_BIOCARTA	Bcr signaling pathway
+531	GSK3B	Homo sapiens	KEGG	Insulin signaling pathway
+13028	TBK1	Homo sapiens	REACTOME	Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon
+4025	VAV1	Homo sapiens	PID_BIOCARTA	Ras-independent pathway in nk cell-mediated cytotoxicity
+4379	GSK3B	Homo sapiens	KEGG	Neurotrophin signaling pathway
+532	GSK3B	Homo sapiens	KEGG	B cell receptor signaling pathway
+15917	NFKBIB	Homo sapiens	NETPATH	IL1
+15915	NFKBIB	Homo sapiens	NETPATH	TCR
+15913	NFKBIB	Homo sapiens	NETPATH	TNFalpha
+582	CRKL	Homo sapiens	KEGG	Chronic myeloid leukemia
+15695	CBL	Homo sapiens	PID_NCI	Fc-epsilon receptor I signaling in mast cells
+15695	LYN	Homo sapiens	PID_NCI	Fc-epsilon receptor I signaling in mast cells
+18114	GSK3B	Homo sapiens	REACTOME	S45 mutants of beta-catenin aren't phosphorylated
+16794	TYK2	Homo sapiens	REACTOME	Developmental Biology
+485	NFKB1	Homo sapiens	KEGG	Apoptosis
+487	NFKB1	Homo sapiens	KEGG	MAPK signaling pathway
+15206	IKBKG	Homo sapiens	PID_NCI	TRAIL signaling pathway
+14981	CBL	Homo sapiens	PID_NCI	IL8- and CXCR2-mediated signaling events
+19557	TBK1	Homo sapiens	REACTOME	Cytosolic sensors of pathogen-associated DNA 
+15662	CBL	Homo sapiens	PID_NCI	EPHA2 forward signaling
+13833	PTPN6	Homo sapiens	REACTOME	Signal regulatory protein (SIRP) family interactions
+17418	CRKL	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13278	IRS2	Homo sapiens	REACTOME	PI3K Cascade
+15927	NFKBIB	Homo sapiens	NETPATH	TSH
+13274	IRS2	Homo sapiens	REACTOME	IRS activation
+19507	NFKB1	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+4397	GSK3B	Homo sapiens	KEGG	Pathways in cancer
+17000	GSK3B	Homo sapiens	REACTOME	Signaling by WNT in cancer
+17097	NFKB1	Homo sapiens	REACTOME	TCR signaling
+15384	PTPN6	Homo sapiens	PID_NCI	BCR signaling pathway
+13046	TBK1	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+12907	PSMD2	Homo sapiens	REACTOME	Stabilization of p53
+19285	KPNA1	Homo sapiens	REACTOME	Influenza Life Cycle
+12906	PSMD2	Homo sapiens	REACTOME	Autodegradation of the E3 ubiquitin ligase COP1
+12909	PSMD2	Homo sapiens	REACTOME	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+13191	NFKB1	Homo sapiens	REACTOME	NF-kB is activated and signals survival
+16689	GSK3B	Homo sapiens	REACTOME	truncated APC mutants destabilize the destruction complex
+12908	PSMD2	Homo sapiens	REACTOME	p53-Dependent G1 DNA Damage Response
+16144	JAK3	Homo sapiens	INOH	IL-2 signaling
+15930	NFKBIB	Homo sapiens	NETPATH	TWEAK
+15931	NFKBIB	Homo sapiens	NETPATH	Prolactin
+12910	PSMD2	Homo sapiens	REACTOME	p53-Independent DNA Damage Response
+16159	STAT1	Homo sapiens	INOH	IL-5 signaling
+487	NR4A1	Homo sapiens	KEGG	MAPK signaling pathway
+15820	NFKB1	Homo sapiens	PID_NCI	Alternative NF-kappaB pathway
+18444	PSMD2	Homo sapiens	REACTOME	Immune System
+13263	IRS2	Homo sapiens	REACTOME	PI3K events in ERBB4 signaling
+13265	IRS2	Homo sapiens	REACTOME	Signaling by ERBB4
+16151	STAT1	Homo sapiens	INOH	EPO signaling pathway
+13189	NFKB1	Homo sapiens	REACTOME	Regulated proteolysis of p75NTR
+590	IKBKG	Homo sapiens	KEGG	Adipocytokine signaling pathway
+17706	VAV1	Homo sapiens	REACTOME	VEGFR2 mediated vascular permeability
+16656	GSK3B	Homo sapiens	REACTOME	Signaling by FGFR in disease
+17704	GSK3B	Homo sapiens	REACTOME	GLI3 is processed to GLI3R by the proteasome
+12922	PSMD2	Homo sapiens	REACTOME	APC/C:Cdc20 mediated degradation of Securin
+16151	JAK3	Homo sapiens	INOH	EPO signaling pathway
+12923	PSMD2	Homo sapiens	REACTOME	APC/C:Cdc20 mediated degradation of mitotic proteins
+12920	PSMD2	Homo sapiens	REACTOME	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1
+13126	PTPN1	Homo sapiens	REACTOME	Platelet Aggregation (Plug Formation)
+15034	NCOA1	Homo sapiens	PID_NCI	Validated nuclear estrogen receptor beta network
+531	CRKL	Homo sapiens	KEGG	Insulin signaling pathway
+577	SOCS1	Homo sapiens	KEGG	Type II diabetes mellitus
+13291	IRS2	Homo sapiens	REACTOME	Signaling by ERBB2
+13124	PTPN1	Homo sapiens	REACTOME	Integrin alphaIIb beta3 signaling
+582	IKBKG	Homo sapiens	KEGG	Chronic myeloid leukemia
+8112	NFKBIB	Homo sapiens	KEGG	NOD-like receptor signaling pathway
+18145	GSK3B	Homo sapiens	REACTOME	deletions in the AMER1 gene destabilize the destruction complex
+12929	PSMD2	Homo sapiens	REACTOME	Regulation of APC/C activators between G1/S and early anaphase
+8117	NFKBIB	Homo sapiens	KEGG	Cytosolic DNA-sensing pathway
+14909	JAK3	Homo sapiens	PID_NCI	CD40/CD40L signaling
+546	CRKL	Homo sapiens	KEGG	Focal adhesion
+15913	NFKBIZ	Homo sapiens	NETPATH	TNFalpha
+12925	PSMD2	Homo sapiens	REACTOME	Autodegradation of Cdh1 by Cdh1:APC/C
+14943	CBL	Homo sapiens	PID_NCI	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)
+12927	PSMD2	Homo sapiens	REACTOME	SCF-beta-TrCP mediated degradation of Emi1
+16190	TYK2	Homo sapiens	INOH	VEGF signaling pathway
+12931	PSMD2	Homo sapiens	REACTOME	Orc1 removal from chromatin
+568	SOCS1	Homo sapiens	KEGG	Jak-STAT signaling pathway
+17476	VAV1	Homo sapiens	REACTOME	Innate Immune System
+12932	PSMD2	Homo sapiens	REACTOME	Removal of licensing factors from origins
+17226	STAT1	Homo sapiens	REACTOME	Antiviral mechanism by IFN-stimulated genes
+13281	IRS2	Homo sapiens	REACTOME	Signaling by Insulin receptor
+16656	VAV1	Homo sapiens	REACTOME	Signaling by FGFR in disease
+13282	IRS2	Homo sapiens	REACTOME	IRS-related events triggered by IGF1R
+12930	PSMD2	Homo sapiens	REACTOME	CDK-mediated phosphorylation and removal of Cdc6
+13284	IRS2	Homo sapiens	REACTOME	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+15863	BIRC3	Homo sapiens	PID_NCI	HIV-1 Nef: Negative effector of Fas and TNF-alpha
+13286	IRS2	Homo sapiens	REACTOME	PI3K events in ERBB2 signaling
+593	IKBKG	Homo sapiens	KEGG	Pancreatic cancer
+13178	NR4A1	Homo sapiens	REACTOME	PI3K/AKT activation
+19027	PSMD2	Homo sapiens	REACTOME	deletions in the AXIN genes in hepatocellular carcinoma result in elevated WNT signaling
+19561	LYN	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+582	CBL	Homo sapiens	KEGG	Chronic myeloid leukemia
+13046	SOCS1	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+564	STAT1	Homo sapiens	KEGG	Toll-like receptor signaling pathway
+13261	JAK1	Homo sapiens	REACTOME	SHC1 events in ERBB4 signaling
+18444	IRF8	Homo sapiens	REACTOME	Immune System
+13585	PSMD2	Homo sapiens	REACTOME	Regulation of ornithine decarboxylase (ODC)
+568	STAT1	Homo sapiens	KEGG	Jak-STAT signaling pathway
+13265	JAK1	Homo sapiens	REACTOME	Signaling by ERBB4
+473	GSK3B	Homo sapiens	KEGG	Cell cycle
+16645	PSMD2	Homo sapiens	REACTOME	DNA Replication
+15346	PLAUR	Homo sapiens	PID_NCI	FGF signaling pathway
+4162	STAT1	Homo sapiens	PID_BIOCARTA	Egf signaling pathway
+16509	STAT1	Homo sapiens	NETPATH	IL11
+4083	TYK2	Homo sapiens	PID_BIOCARTA	Stat3 signaling pathway
+13035	SOCS1	Homo sapiens	REACTOME	Toll Like Receptor TLR1:TLR2 Cascade
+568	CBL	Homo sapiens	KEGG	Jak-STAT signaling pathway
+13034	SOCS1	Homo sapiens	REACTOME	MyD88:Mal cascade initiated on plasma membrane
+13036	SOCS1	Homo sapiens	REACTOME	Toll Like Receptor TLR6:TLR2 Cascade
+15695	VAV1	Homo sapiens	PID_NCI	Fc-epsilon receptor I signaling in mast cells
+4017	XRCC5	Homo sapiens	PID_BIOCARTA	Telomeres telomerase cellular aging and immortality
+563	CBL	Homo sapiens	KEGG	T cell receptor signaling pathway
+13279	JAK1	Homo sapiens	REACTOME	SHC-mediated signalling
+15614	GSK3B	Homo sapiens	PID_NCI	Hedgehog signaling events mediated by Gli proteins
+16659	PSMD2	Homo sapiens	REACTOME	PCP/CE pathway
+16218	CBL	Homo sapiens	INOH	GPCR signaling
+4396	NOTCH1	Homo sapiens	KEGG	Prion diseases
+10385	TYK2	Homo sapiens	KEGG	Toxoplasmosis
+19429	PSMD2	Homo sapiens	REACTOME	Metabolism
+4171	STAT1	Homo sapiens	PID_BIOCARTA	Ifn gamma signaling pathway
+16513	STAT1	Homo sapiens	NETPATH	Oncostatin_M
+15504	FBXW11	Homo sapiens	PID_NCI	Signaling events mediated by VEGFR1 and VEGFR2
+12981	FBXW11	Homo sapiens	REACTOME	Antigen processing: Ubiquitination & Proteasome degradation
+15398	BIRC3	Homo sapiens	PID_NCI	C-MYB transcription factor network
+18444	NFKBIB	Homo sapiens	REACTOME	Immune System
+15063	NCOA1	Homo sapiens	PID_NCI	Validated nuclear estrogen receptor alpha network
+13180	CRKL	Homo sapiens	REACTOME	Frs2-mediated activation
+18444	IKBKG	Homo sapiens	REACTOME	Immune System
+18561	GSK3B	Homo sapiens	REACTOME	S33 mutants of beta-catenin aren't phosphorylated
+19875	COPB2	Homo sapiens	REACTOME	Membrane Trafficking
+16169	IL6ST	Homo sapiens	INOH	LIF signaling
+17710	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 2 (TLR2) Cascade
+18744	NFKB1	Homo sapiens	REACTOME	Signaling by Interleukins
+8112	BIRC3	Homo sapiens	KEGG	NOD-like receptor signaling pathway
+17418	IFNAR1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+16879	JAK1	Homo sapiens	REACTOME	Downstream signaling of activated FGFR
+494	GSK3B	Homo sapiens	KEGG	Axon guidance
+19190	NFKB1	Homo sapiens	REACTOME	Activated TLR4 signalling
+18444	GHR	Homo sapiens	REACTOME	Immune System
+15791	NFKB1	Homo sapiens	PID_NCI	IL2 signaling events mediated by PI3K
+17980	PTPN6	Homo sapiens	REACTOME	Signal Transduction
+16255	PSMD2	Homo sapiens	INOH	TGF-beta signaling
+16656	STAT5A	Homo sapiens	REACTOME	Signaling by FGFR in disease
+18444	BIRC3	Homo sapiens	REACTOME	Immune System
+4054	TYK2	Homo sapiens	PID_BIOCARTA	Il12 and stat4 dependent signaling pathway in th1 development
+19189	LYN	Homo sapiens	REACTOME	EPH-Ephrin signaling
+19807	TYK2	Homo sapiens	REACTOME	Disease
+13325	PTPN6	Homo sapiens	REACTOME	Signaling by SCF-KIT
+13324	PTPN6	Homo sapiens	REACTOME	Regulation of KIT signaling
+10367	TYK2	Homo sapiens	KEGG	Osteoclast differentiation
+19770	NCOA1	Homo sapiens	REACTOME	Gene Expression
+16656	CBL	Homo sapiens	REACTOME	Signaling by FGFR in disease
+16241	TYK2	Homo sapiens	INOH	IL-10 signaling
+4081	STAT1	Homo sapiens	PID_BIOCARTA	P38 mapk signaling pathway
+527	NFKB1	Homo sapiens	KEGG	Small cell lung cancer
+12988	GSK3B	Homo sapiens	REACTOME	AKT phosphorylates targets in the cytosol
+12989	GSK3B	Homo sapiens	REACTOME	PIP3 activates AKT signaling
+17418	VAV1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+14943	CRKL	Homo sapiens	PID_NCI	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)
+19841	STAT5A	Homo sapiens	REACTOME	Signaling by Leptin
+13079	CBL	Homo sapiens	REACTOME	Interleukin-6 signaling
+16689	PSMD2	Homo sapiens	REACTOME	truncated APC mutants destabilize the destruction complex
+532	NFKB1	Homo sapiens	KEGG	B cell receptor signaling pathway
+4117	PLD3	Homo sapiens	PID_BIOCARTA	Metabolism of anandamide an endogenous cannabinoid
+15709	CBL	Homo sapiens	PID_NCI	VEGFR1 specific signals
+13082	CBL	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+13080	CBL	Homo sapiens	REACTOME	Regulation of signaling by CBL
+15826	STAT1	Homo sapiens	PID_NCI	IL6-mediated signaling events
+16233	TYK2	Homo sapiens	INOH	IL-23 signaling
+17405	VAV1	Homo sapiens	REACTOME	Role of LAT2/NTAL/LAB on calcium mobilization
+4071	STAT1	Homo sapiens	PID_BIOCARTA	Pdgf signaling pathway
+18519	JAK1	Homo sapiens	REACTOME	VEGFR2 mediated cell proliferation
+15427	STAT1	Homo sapiens	PID_NCI	IL23-mediated signaling events
+16239	TYK2	Homo sapiens	INOH	IFN alpha signaling
+15656	GSK3B	Homo sapiens	PID_NCI	Regulation of Androgen receptor activity
+442	GSK3B	Homo sapiens	KEGG	Colorectal cancer
+13265	STAT5A	Homo sapiens	REACTOME	Signaling by ERBB4
+13095	CBL	Homo sapiens	REACTOME	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+17980	JAK3	Homo sapiens	REACTOME	Signal Transduction
+445	GSK3B	Homo sapiens	KEGG	Wnt signaling pathway
+16155	IL6ST	Homo sapiens	INOH	IL-6 signaling
+16695	PSMD2	Homo sapiens	REACTOME	p53-Dependent G1/S DNA damage checkpoint
+13281	JAK1	Homo sapiens	REACTOME	Signaling by Insulin receptor
+19841	IRS2	Homo sapiens	REACTOME	Signaling by Leptin
+593	STAT1	Homo sapiens	KEGG	Pancreatic cancer
+19852	TYK2	Homo sapiens	REACTOME	FCERI mediated MAPK activation
+15044	STAT1	Homo sapiens	PID_NCI	IL2-mediated signaling events
+544	NFKB1	Homo sapiens	KEGG	Prostate cancer
+19557	NFKB1	Homo sapiens	REACTOME	Cytosolic sensors of pathogen-associated DNA 
+4389	NFKBIB	Homo sapiens	KEGG	Chemokine signaling pathway
+449	GSK3B	Homo sapiens	KEGG	Hedgehog signaling pathway
+19008	PSMD2	Homo sapiens	REACTOME	Regulation of mRNA stability by proteins that bind AU-rich elements
+15420	STAT1	Homo sapiens	PID_NCI	Signaling events mediated by TCPTP
+13289	JAK1	Homo sapiens	REACTOME	SHC1 events in ERBB2 signaling
+18110	TBK1	Homo sapiens	REACTOME	Regulation of innate immune responses to cytosolic DNA
+16125	IL6ST	Homo sapiens	INOH	JAK STAT pathway and regulation
+13287	JAK1	Homo sapiens	REACTOME	GRB2 events in ERBB2 signaling
+13284	JAK1	Homo sapiens	REACTOME	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+13283	JAK1	Homo sapiens	REACTOME	SHC-related events triggered by IGF1R
+13282	JAK1	Homo sapiens	REACTOME	IRS-related events triggered by IGF1R
+4034	PPARG	Homo sapiens	PID_BIOCARTA	Role of ppar-gamma coactivators in obesity and thermogenesis
+19561	NFKB1	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+13291	JAK1	Homo sapiens	REACTOME	Signaling by ERBB2
+19841	TYK2	Homo sapiens	REACTOME	Signaling by Leptin
+16831	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 7/8 (TLR7/8) Cascade
+18744	JAK3	Homo sapiens	REACTOME	Signaling by Interleukins
+590	NFKBIB	Homo sapiens	KEGG	Adipocytokine signaling pathway
+4379	NFKBIB	Homo sapiens	KEGG	Neurotrophin signaling pathway
+15404	STAT1	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+13082	JAK3	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+13083	JAK3	Homo sapiens	REACTOME	Interleukin-2 signaling
+13081	JAK3	Homo sapiens	REACTOME	Interleukin receptor SHC signaling
+555	LYN	Homo sapiens	KEGG	Long-term depression
+461	GSK3B	Homo sapiens	KEGG	ErbB signaling pathway
+15816	STAT1	Homo sapiens	PID_NCI	PDGFR-beta signaling pathway
+13084	JAK3	Homo sapiens	REACTOME	Interleukin-7 signaling
+16920	NCOA1	Homo sapiens	REACTOME	Metabolism of lipids and lipoproteins
+15671	GSK3B	Homo sapiens	PID_NCI	Validated transcriptional targets of deltaNp63 isoforms
+13534	NCOA1	Homo sapiens	REACTOME	Fatty acid, triacylglycerol, and ketone body metabolism
+17767	IKBKG	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+19807	STAT5A	Homo sapiens	REACTOME	Disease
+15931	IRS2	Homo sapiens	NETPATH	Prolactin
+15869	STAT1	Homo sapiens	PID_NCI	IFN-gamma pathway
+18371	FBXW11	Homo sapiens	REACTOME	Adaptive Immune System
+15198	TYK2	Homo sapiens	PID_NCI	Signaling events mediated by PTP1B
+17980	PTPN1	Homo sapiens	REACTOME	Signal Transduction
+17802	TYK2	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+15928	STAT5A	Homo sapiens	NETPATH	TSLP
+15262	CRKL	Homo sapiens	PID_NCI	IGF1 pathway
+15926	STAT5A	Homo sapiens	NETPATH	Leptin
+4052	BIRC3	Homo sapiens	PID_BIOCARTA	Tnfr1 signaling pathway
+15924	STAT5A	Homo sapiens	NETPATH	IL9
+15923	IRS2	Homo sapiens	NETPATH	IL-7
+15923	STAT5A	Homo sapiens	NETPATH	IL-7
+15924	IRS2	Homo sapiens	NETPATH	IL9
+15922	STAT5A	Homo sapiens	NETPATH	IL6
+15921	STAT5A	Homo sapiens	NETPATH	IL5
+15920	STAT5A	Homo sapiens	NETPATH	IL4
+15927	IRS2	Homo sapiens	NETPATH	TSH
+15926	IRS2	Homo sapiens	NETPATH	Leptin
+4009	PPARG	Homo sapiens	PID_BIOCARTA	Visceral fat deposits and the metabolic syndrome
+15920	IRS2	Homo sapiens	NETPATH	IL4
+15185	TYK2	Homo sapiens	PID_NCI	IL12-mediated signaling events
+17476	SOCS1	Homo sapiens	REACTOME	Innate Immune System
+17540	NOTCH1	Homo sapiens	REACTOME	Regulation of beta-cell development
+18803	FBXW11	Homo sapiens	REACTOME	G2/M Transition
+15918	IRS2	Homo sapiens	NETPATH	IL2
+15297	LYN	Homo sapiens	PID_NCI	EPO signaling pathway
+16818	JAK1	Homo sapiens	REACTOME	Signalling by NGF
+15931	STAT5A	Homo sapiens	NETPATH	Prolactin
+17980	NOTCH1	Homo sapiens	REACTOME	Signal Transduction
+15913	IRS2	Homo sapiens	NETPATH	TNFalpha
+17271	NCOA1	Homo sapiens	REACTOME	Bile acid and bile salt metabolism
+17405	IRS2	Homo sapiens	REACTOME	Role of LAT2/NTAL/LAB on calcium mobilization
+17802	IRS2	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+15377	TP63	Homo sapiens	PID_NCI	p73 transcription factor network
+4032	BIRC3	Homo sapiens	PID_BIOCARTA	Keratinocyte differentiation
+19195	VAV1	Homo sapiens	REACTOME	PI3K/AKT Signaling in Cancer
+563	NFKBIB	Homo sapiens	KEGG	T cell receptor signaling pathway
+13262	STAT5A	Homo sapiens	REACTOME	Nuclear signaling by ERBB4
+19698	GSK3B	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+15635	SRF	Homo sapiens	PID_NCI	RhoA signaling pathway
+19698	VAV1	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+18753	IRS2	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+435	VAV1	Homo sapiens	KEGG	Fc epsilon RI signaling pathway
+4142	CBL	Homo sapiens	PID_BIOCARTA	Sprouty regulation of tyrosine kinase signals
+13216	STAM2	Homo sapiens	REACTOME	Signaling by EGFR
+526	FBXW11	Homo sapiens	KEGG	Circadian rhythm
+13215	STAM2	Homo sapiens	REACTOME	EGFR downregulation
+18444	CRKL	Homo sapiens	REACTOME	Immune System
+15133	STAT5A	Homo sapiens	PID_NCI	IL27-mediated signaling events
+19429	PPARG	Homo sapiens	REACTOME	Metabolism
+15656	NR3C1	Homo sapiens	PID_NCI	Regulation of Androgen receptor activity
+519	FBXW11	Homo sapiens	KEGG	Ubiquitin mediated proteolysis
+4119	STAT1	Homo sapiens	PID_BIOCARTA	Il22 soluble receptor signaling pathway
+13221	JAK1	Homo sapiens	REACTOME	G beta:gamma signalling through PI3Kgamma
+17980	JAK1	Homo sapiens	REACTOME	Signal Transduction
+531	CBL	Homo sapiens	KEGG	Insulin signaling pathway
+19856	JAK3	Homo sapiens	REACTOME	Hemostasis
+17980	SOCS1	Homo sapiens	REACTOME	Signal Transduction
+16656	NR4A1	Homo sapiens	REACTOME	Signaling by FGFR in disease
+491	NOTCH1	Homo sapiens	KEGG	Notch signaling pathway
+15569	IRS2	Homo sapiens	PID_NCI	Signaling events regulated by Ret tyrosine kinase
+4124	STAT1	Homo sapiens	PID_BIOCARTA	Tpo signaling pathway
+569	PSMD2	Homo sapiens	KEGG	Proteasome
+532	NFKBIB	Homo sapiens	KEGG	B cell receptor signaling pathway
+15908	TNIP1	Homo sapiens	NETPATH	EGFR1
+12974	FBXW11	Homo sapiens	REACTOME	Regulation of PLK1 Activity at G2/M Transition
+17405	GSK3B	Homo sapiens	REACTOME	Role of LAT2/NTAL/LAB on calcium mobilization
+15912	PPARG	Homo sapiens	NETPATH	Wnt
+19698	PSMD2	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+13090	VAV1	Homo sapiens	REACTOME	CD28 co-stimulation
+4135	STAT1	Homo sapiens	PID_BIOCARTA	Bioactive peptide induced signaling pathway
+13209	JAK1	Homo sapiens	REACTOME	SOS-mediated signalling
+13092	VAV1	Homo sapiens	REACTOME	Costimulation by the CD28 family
+4137	STAT1	Homo sapiens	PID_BIOCARTA	Mapkinase signaling pathway
+13095	VAV1	Homo sapiens	REACTOME	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+17476	XRCC5	Homo sapiens	REACTOME	Innate Immune System
+16839	JAK1	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+519	CBL	Homo sapiens	KEGG	Ubiquitin mediated proteolysis
+17418	KPNA1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+18870	PSMD2	Homo sapiens	REACTOME	Asymmetric localization of PCP proteins
+16831	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 7/8 (TLR7/8) Cascade
+15100	STAT5A	Homo sapiens	PID_NCI	ErbB4 signaling events
+16132	NFKBIB	Homo sapiens	INOH	B cell receptor signaling
+15908	STAT5A	Homo sapiens	NETPATH	EGFR1
+18444	CBL	Homo sapiens	REACTOME	Immune System
+13082	VAV1	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+13219	JAK1	Homo sapiens	REACTOME	Gastrin-CREB signalling pathway via PKC and MAPK
+13080	VAV1	Homo sapiens	REACTOME	Regulation of signaling by CBL
+13216	JAK1	Homo sapiens	REACTOME	Signaling by EGFR
+13214	JAK1	Homo sapiens	REACTOME	GRB2 events in EGFR signaling
+12989	VAV1	Homo sapiens	REACTOME	PIP3 activates AKT signaling
+13213	JAK1	Homo sapiens	REACTOME	SHC1 events in EGFR signaling
+15906	XRCC5	Homo sapiens	NETPATH	AndrogenReceptor
+19487	PSMD2	Homo sapiens	REACTOME	XAV939 inhibits tankyrase, stabilizing AXIN
+404	VAV1	Homo sapiens	KEGG	Regulation of actin cytoskeleton
+15910	STAT5A	Homo sapiens	NETPATH	KitReceptor
+15297	CRKL	Homo sapiens	PID_NCI	EPO signaling pathway
+13089	VAV1	Homo sapiens	REACTOME	CD28 dependent Vav1 pathway
+15913	STAT5A	Homo sapiens	NETPATH	TNFalpha
+16800	TBK1	Homo sapiens	REACTOME	IRF3-mediated induction of type I IFN
+15915	STAT5A	Homo sapiens	NETPATH	TCR
+4377	NOTCH1	Homo sapiens	KEGG	Dorso-ventral axis formation
+15918	STAT5A	Homo sapiens	NETPATH	IL2
+15919	STAT5A	Homo sapiens	NETPATH	IL3
+13046	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+13048	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 5 (TLR5) Cascade
+13043	IKBKG	Homo sapiens	REACTOME	MyD88 cascade initiated on plasma membrane
+13042	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 9 (TLR9) Cascade
+13042	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 9 (TLR9) Cascade
+13043	NFKBIB	Homo sapiens	REACTOME	MyD88 cascade initiated on plasma membrane
+4389	VAV1	Homo sapiens	KEGG	Chemokine signaling pathway
+13041	IKBKG	Homo sapiens	REACTOME	MyD88 dependent cascade initiated on endosome
+13044	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 10 (TLR10) Cascade
+13040	IKBKG	Homo sapiens	REACTOME	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+15919	TYK2	Homo sapiens	NETPATH	IL3
+16110	NFKB1	Homo sapiens	INOH	IL-1 signaling pathway 
+18059	TYK2	Homo sapiens	REACTOME	Interferon Signaling
+13035	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor TLR1:TLR2 Cascade
+15803	SRF	Homo sapiens	PID_NCI	p38 signaling mediated by MAPKAP kinases
+13036	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor TLR6:TLR2 Cascade
+18841	GSK3B	Homo sapiens	REACTOME	Cellular response to heat stress
+13041	NFKBIB	Homo sapiens	REACTOME	MyD88 dependent cascade initiated on endosome
+13034	IKBKG	Homo sapiens	REACTOME	MyD88:Mal cascade initiated on plasma membrane
+13040	NFKBIB	Homo sapiens	REACTOME	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+17418	SOCS1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13039	IKBKG	Homo sapiens	REACTOME	IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation
+17980	LYN	Homo sapiens	REACTOME	Signal Transduction
+568	JAK1	Homo sapiens	KEGG	Jak-STAT signaling pathway
+16212	NFKBIB	Homo sapiens	INOH	TNFR1 signaling pathway
+16104	NFKB1	Homo sapiens	INOH	CD4 T cell receptor signaling
+15908	TYK2	Homo sapiens	NETPATH	EGFR1
+19429	NCOA1	Homo sapiens	REACTOME	Metabolism
+3948	STAT1	Homo sapiens	PID_BIOCARTA	Ifn alpha signaling pathway
+3946	STAT1	Homo sapiens	PID_BIOCARTA	Inhibition of cellular proliferation by gleevec
+19698	REL	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+17012	PSMD2	Homo sapiens	REACTOME	APC/C-mediated degradation of cell cycle proteins
+13676	KPNA1	Homo sapiens	REACTOME	Vpr-mediated nuclear import of PICs
+16513	NFKB1	Homo sapiens	NETPATH	Oncostatin_M
+4019	JAK1	Homo sapiens	PID_BIOCARTA	Role of erbb2 in signal transduction and oncology
+16818	ITGB3BP	Homo sapiens	REACTOME	Signalling by NGF
+16259	STAT5A	Homo sapiens	INOH	PDGF signaling pathway
+13044	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 10 (TLR10) Cascade
+4359	LYN	Homo sapiens	KEGG	Fc gamma R-mediated phagocytosis
+13046	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+4011	JAK1	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+13048	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 5 (TLR5) Cascade
+18366	PLAUR	Homo sapiens	REACTOME	Metabolism of proteins
+14920	PELP1	Homo sapiens	PID_NCI	Nongenotropic Androgen signaling
+14900	NR3C1	Homo sapiens	PID_NCI	FOXA2 and FOXA3 transcription factor networks
+17418	JAK1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+15918	JAK3	Homo sapiens	NETPATH	IL2
+15915	JAK3	Homo sapiens	NETPATH	TCR
+13027	NFKBIB	Homo sapiens	REACTOME	TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+17000	PSMD2	Homo sapiens	REACTOME	Signaling by WNT in cancer
+15910	JAK3	Homo sapiens	NETPATH	KitReceptor
+16125	IFNAR1	Homo sapiens	INOH	JAK STAT pathway and regulation
+17802	VAV1	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+15110	CBL	Homo sapiens	PID_NCI	TCR signaling in naïve CD4+ T cells
+16186	IRS2	Homo sapiens	INOH	Insulin receptor signaling
+13017	IKBKG	Homo sapiens	REACTOME	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+13015	IKBKG	Homo sapiens	REACTOME	TRAF6 mediated NF-kB activation
+4083	JAK3	Homo sapiens	PID_BIOCARTA	Stat3 signaling pathway
+13016	IKBKG	Homo sapiens	REACTOME	NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10
+4359	VAV1	Homo sapiens	KEGG	Fc gamma R-mediated phagocytosis
+16800	XRCC5	Homo sapiens	REACTOME	IRF3-mediated induction of type I IFN
+13030	IKBKG	Homo sapiens	REACTOME	MyD88-independent cascade 
+13034	NFKBIB	Homo sapiens	REACTOME	MyD88:Mal cascade initiated on plasma membrane
+13032	IKBKG	Homo sapiens	REACTOME	IRAK1 recruits IKK complex
+13031	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+13031	IKBKG	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+13035	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor TLR1:TLR2 Cascade
+13036	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor TLR6:TLR2 Cascade
+13741	NOTCH1	Homo sapiens	REACTOME	Notch-HLH transcription pathway
+13742	NOTCH1	Homo sapiens	REACTOME	Generic Transcription Pathway
+19561	NFKBIB	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+13026	IKBKG	Homo sapiens	REACTOME	IKK complex recruitment mediated by RIP1
+13027	IKBKG	Homo sapiens	REACTOME	TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+13030	NFKBIB	Homo sapiens	REACTOME	MyD88-independent cascade 
+13023	IKBKG	Homo sapiens	REACTOME	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1
+4397	BIRC3	Homo sapiens	KEGG	Pathways in cancer
+13024	IKBKG	Homo sapiens	REACTOME	activated TAK1 mediates p38 MAPK activation
+18752	NCOA1	Homo sapiens	REACTOME	Transcriptional activation of mitochondrial biogenesis
+19557	NFKBIB	Homo sapiens	REACTOME	Cytosolic sensors of pathogen-associated DNA 
+593	JAK1	Homo sapiens	KEGG	Pancreatic cancer
+15931	VAV1	Homo sapiens	NETPATH	Prolactin
+17980	CRKL	Homo sapiens	REACTOME	Signal Transduction
+15209	TP63	Homo sapiens	PID_NCI	Direct p53 effectors
+18097	GSK3B	Homo sapiens	REACTOME	misspliced GSK3beta mutants stabilize beta-catenin
+3992	JAK3	Homo sapiens	PID_BIOCARTA	Il 6 signaling pathway
+4069	JAK3	Homo sapiens	PID_BIOCARTA	Il 4 signaling pathway
+10367	SOCS1	Homo sapiens	KEGG	Osteoclast differentiation
+2815	IKBKG	Homo sapiens	KEGG	Primary immunodeficiency
+13212	NR4A1	Homo sapiens	REACTOME	GAB1 signalosome
+13720	NOTCH1	Homo sapiens	REACTOME	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+15921	VAV1	Homo sapiens	NETPATH	IL5
+18115	VCP	Homo sapiens	REACTOME	Hh ligand biogenesis disease
+15922	VAV1	Homo sapiens	NETPATH	IL6
+13216	NR4A1	Homo sapiens	REACTOME	Signaling by EGFR
+3988	BIRC3	Homo sapiens	PID_BIOCARTA	Role of mitochondria in apoptotic signaling
+19900	PSMD2	Homo sapiens	REACTOME	Mitotic Metaphase and Anaphase
+17418	CBL	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13010	IKBKG	Homo sapiens	REACTOME	ZBP1(DAI) mediated induction of type I IFNs
+4009	NR3C1	Homo sapiens	PID_BIOCARTA	Visceral fat deposits and the metabolic syndrome
+15919	VAV1	Homo sapiens	NETPATH	IL3
+13094	NFKBIB	Homo sapiens	REACTOME	Activation of NF-kappaB in B cells
+18345	NCOA1	Homo sapiens	REACTOME	Cytochrome P450 - arranged by substrate type
+15185	STAT5A	Homo sapiens	PID_NCI	IL12-mediated signaling events
+13008	IKBKG	Homo sapiens	REACTOME	RIP-mediated NFkB activation via ZBP1
+15133	TYK2	Homo sapiens	PID_NCI	IL27-mediated signaling events
+16132	NFKB1	Homo sapiens	INOH	B cell receptor signaling
+13718	NOTCH1	Homo sapiens	REACTOME	Constitutive Signaling by NOTCH1 PEST Domain Mutants
+17405	NR4A1	Homo sapiens	REACTOME	Role of LAT2/NTAL/LAB on calcium mobilization
+15908	ANXA4	Homo sapiens	NETPATH	EGFR1
+17980	STAT1	Homo sapiens	REACTOME	Signal Transduction
+13717	NOTCH1	Homo sapiens	REACTOME	Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+4389	LYN	Homo sapiens	KEGG	Chemokine signaling pathway
+13716	NOTCH1	Homo sapiens	REACTOME	Constitutive Signaling by NOTCH1 HD Domain Mutants
+13719	NOTCH1	Homo sapiens	REACTOME	Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling
+15931	TYK2	Homo sapiens	NETPATH	Prolactin
+10374	FBXW11	Homo sapiens	KEGG	Shigellosis
+15198	STAT5A	Homo sapiens	PID_NCI	Signaling events mediated by PTP1B
+10385	SOCS1	Homo sapiens	KEGG	Toxoplasmosis
+515	IL6ST	Homo sapiens	KEGG	Cytokine-cytokine receptor interaction
+15656	REL	Homo sapiens	PID_NCI	Regulation of Androgen receptor activity
+18444	IRS2	Homo sapiens	REACTOME	Immune System
+4153	CRKL	Homo sapiens	PID_BIOCARTA	Links between pyk2 and map kinases
+10367	IFNAR1	Homo sapiens	KEGG	Osteoclast differentiation
+16121	NFKB1	Homo sapiens	INOH	Toll-like receptor signaling pathway 
+17418	STAT5A	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+14893	GSK3B	Homo sapiens	PID_NCI	Trk receptor signaling mediated by PI3K and PLC-gamma
+15924	TYK2	Homo sapiens	NETPATH	IL9
+18365	NCOA1	Homo sapiens	REACTOME	Orphan transporters
+15922	TYK2	Homo sapiens	NETPATH	IL6
+18626	LYN	Homo sapiens	REACTOME	EPHA-mediated growth cone collapse
+15920	TYK2	Homo sapiens	NETPATH	IL4
+16723	GSK3B	Homo sapiens	REACTOME	Cellular responses to stress
+17980	VCP	Homo sapiens	REACTOME	Signal Transduction
+15816	SRF	Homo sapiens	PID_NCI	PDGFR-beta signaling pathway
+19561	IRS2	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+8113	FBXW11	Homo sapiens	KEGG	Oocyte meiosis
+19561	NR4A1	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+18208	HMGA2	Homo sapiens	REACTOME	DNA Damage/Telomere Stress Induced Senescence
+18444	NR4A1	Homo sapiens	REACTOME	Immune System
+18088	TYK2	Homo sapiens	REACTOME	MAP kinase activation in TLR cascade
+18085	GSK3B	Homo sapiens	REACTOME	Hedgehog 'off' state
+15280	PPARG	Homo sapiens	PID_NCI	Signaling events mediated by HDAC Class I
+19186	JAK1	Homo sapiens	REACTOME	Prolonged ERK activation events
+13879	NCOA1	Homo sapiens	REACTOME	Transcriptional regulation of white adipocyte differentiation
+15469	NFKB1	Homo sapiens	PID_NCI	Canonical NF-kappaB pathway
+15162	CBL	Homo sapiens	PID_NCI	Internalization of ErbB1
+13094	REL	Homo sapiens	REACTOME	Activation of NF-kappaB in B cells
+4025	PTPN6	Homo sapiens	PID_BIOCARTA	Ras-independent pathway in nk cell-mediated cytotoxicity
+15869	PTPN2	Homo sapiens	PID_NCI	IFN-gamma pathway
+4089	NFKBIB	Homo sapiens	PID_BIOCARTA	Tumor suppressor arf inhibits ribosomal biogenesis
+19190	JAK1	Homo sapiens	REACTOME	Activated TLR4 signalling
+461	CRKL	Homo sapiens	KEGG	ErbB signaling pathway
+15583	JAK3	Homo sapiens	PID_NCI	SHP2 signaling
+15584	JAK3	Homo sapiens	PID_NCI	IL2 signaling events mediated by STAT5
+4020	PTPN6	Homo sapiens	PID_BIOCARTA	Epo signaling pathway
+19195	GSK3B	Homo sapiens	REACTOME	PI3K/AKT Signaling in Cancer
+5713	TBK1	Homo sapiens	KEGG	RIG-I-like receptor signaling pathway
+17081	PSMD2	Homo sapiens	REACTOME	beta-catenin independent WNT signaling
+13072	PTPN1	Homo sapiens	REACTOME	Growth hormone receptor signaling
+15770	CRKL	Homo sapiens	PID_NCI	PDGFR-alpha signaling pathway
+15297	PTPN6	Homo sapiens	PID_NCI	EPO signaling pathway
+17802	GSK3B	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+15671	TP63	Homo sapiens	PID_NCI	Validated transcriptional targets of deltaNp63 isoforms
+16255	HDAC5	Homo sapiens	INOH	TGF-beta signaling
+4011	PTPN6	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+15427	NFKB1	Homo sapiens	PID_NCI	IL23-mediated signaling events
+13265	NR4A1	Homo sapiens	REACTOME	Signaling by ERBB4
+13263	NR4A1	Homo sapiens	REACTOME	PI3K events in ERBB4 signaling
+15346	STAT1	Homo sapiens	PID_NCI	FGF signaling pathway
+10404	TBK1	Homo sapiens	KEGG	Hepatitis C
+568	IL6ST	Homo sapiens	KEGG	Jak-STAT signaling pathway
+17449	TYK2	Homo sapiens	REACTOME	Signaling by GPCR
+15233	SRF	Homo sapiens	PID_NCI	ErbB1 downstream signaling
+15907	NFKB1	Homo sapiens	NETPATH	Notch
+17826	VAV1	Homo sapiens	REACTOME	p75 NTR receptor-mediated signalling
+16656	TYK2	Homo sapiens	REACTOME	Signaling by FGFR in disease
+15816	PTPN2	Homo sapiens	PID_NCI	PDGFR-beta signaling pathway
+17061	PSMD2	Homo sapiens	REACTOME	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+4069	JAK1	Homo sapiens	PID_BIOCARTA	Il 4 signaling pathway
+15908	NFKB1	Homo sapiens	NETPATH	EGFR1
+18519	TYK2	Homo sapiens	REACTOME	VEGFR2 mediated cell proliferation
+13008	NFKBIB	Homo sapiens	REACTOME	RIP-mediated NFkB activation via ZBP1
+3946	CRKL	Homo sapiens	PID_BIOCARTA	Inhibition of cellular proliferation by gleevec
+13286	NR4A1	Homo sapiens	REACTOME	PI3K events in ERBB2 signaling
+13178	IRS2	Homo sapiens	REACTOME	PI3K/AKT activation
+17346	VAV1	Homo sapiens	REACTOME	Signaling by VEGF
+18966	CBL	Homo sapiens	REACTOME	TGFBR1 KD Mutants in Cancer
+15918	NFKB1	Homo sapiens	NETPATH	IL2
+15917	NFKB1	Homo sapiens	NETPATH	IL1
+15916	NFKB1	Homo sapiens	NETPATH	BCR
+15915	NFKB1	Homo sapiens	NETPATH	TCR
+15333	IKBKG	Homo sapiens	PID_NCI	p75(NTR)-mediated signaling
+15913	NFKB1	Homo sapiens	NETPATH	TNFalpha
+15911	NFKB1	Homo sapiens	NETPATH	TGF_beta_Receptor
+15906	NCOA1	Homo sapiens	NETPATH	AndrogenReceptor
+19152	GSK3B	Homo sapiens	REACTOME	TCF7L2 mutants don't bind CTBP
+17980	ITGB3BP	Homo sapiens	REACTOME	Signal Transduction
+13291	NR4A1	Homo sapiens	REACTOME	Signaling by ERBB2
+15919	NFKB1	Homo sapiens	NETPATH	IL3
+15117	CBL	Homo sapiens	PID_NCI	Integrins in angiogenesis
+17841	PSMD2	Homo sapiens	REACTOME	T41 mutants of beta-catenin aren't phosphorylated
+16839	CBL	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+15920	JAK3	Homo sapiens	NETPATH	IL4
+13017	NFKBIB	Homo sapiens	REACTOME	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+15911	NCOA1	Homo sapiens	NETPATH	TGF_beta_Receptor
+15924	JAK3	Homo sapiens	NETPATH	IL9
+15920	NFKB1	Homo sapiens	NETPATH	IL4
+15923	JAK3	Homo sapiens	NETPATH	IL-7
+15921	NFKB1	Homo sapiens	NETPATH	IL5
+15926	JAK3	Homo sapiens	NETPATH	Leptin
+13015	NFKBIB	Homo sapiens	REACTOME	TRAF6 mediated NF-kB activation
+13010	NFKBIB	Homo sapiens	REACTOME	ZBP1(DAI) mediated induction of type I IFNs
+15683	TP63	Homo sapiens	PID_NCI	Validated transcriptional targets of TAp63 isoforms
+13076	SOCS1	Homo sapiens	REACTOME	Regulation of IFNG signaling
+4083	JAK1	Homo sapiens	PID_BIOCARTA	Stat3 signaling pathway
+15922	NFKB1	Homo sapiens	NETPATH	IL6
+13077	SOCS1	Homo sapiens	REACTOME	Interferon gamma signaling
+18188	CBL	Homo sapiens	REACTOME	SMAD2/3 MH2 Domain Mutants in Cancer
+15925	NFKB1	Homo sapiens	NETPATH	RANKL
+13074	SOCS1	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+17841	GSK3B	Homo sapiens	REACTOME	T41 mutants of beta-catenin aren't phosphorylated
+15082	XRCC5	Homo sapiens	PID_NCI	Coregulation of Androgen receptor activity
+15926	NFKB1	Homo sapiens	NETPATH	Leptin
+17418	TYK2	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+15928	NFKB1	Homo sapiens	NETPATH	TSLP
+15321	NCOA1	Homo sapiens	PID_NCI	Glucocorticoid receptor regulatory network
+16794	GSK3B	Homo sapiens	REACTOME	Developmental Biology
+15922	NCOA1	Homo sapiens	NETPATH	IL6
+18744	IKBKG	Homo sapiens	REACTOME	Signaling by Interleukins
+17856	PSMD2	Homo sapiens	REACTOME	Degradation of GLI1 by the proteasome
+15907	NOTCH1	Homo sapiens	NETPATH	Notch
+13073	SOCS1	Homo sapiens	REACTOME	Regulation of IFNA signaling
+15930	NFKB1	Homo sapiens	NETPATH	TWEAK
+13072	SOCS1	Homo sapiens	REACTOME	Growth hormone receptor signaling
+15931	NFKB1	Homo sapiens	NETPATH	Prolactin
+15008	NFKB1	Homo sapiens	PID_NCI	LPA receptor mediated events
+4071	JAK1	Homo sapiens	PID_BIOCARTA	Pdgf signaling pathway
+16134	IRS2	Homo sapiens	INOH	IL-13 signaling
+404	CRKL	Homo sapiens	KEGG	Regulation of actin cytoskeleton
+19164	KPNA1	Homo sapiens	REACTOME	HIV Infection
+18561	PSMD2	Homo sapiens	REACTOME	S33 mutants of beta-catenin aren't phosphorylated
+19131	GSK3B	Homo sapiens	REACTOME	RNF mutants show enhanced WNT signaling and proliferation
+15926	NCOA1	Homo sapiens	NETPATH	Leptin
+13295	NOTCH1	Homo sapiens	REACTOME	Activated NOTCH1 Transmits Signal to the Nucleus
+15420	PTPN2	Homo sapiens	PID_NCI	Signaling events mediated by TCPTP
+13296	NOTCH1	Homo sapiens	REACTOME	NOTCH1 Intracellular Domain Regulates Transcription
+19514	KPNA1	Homo sapiens	REACTOME	Host Interactions of HIV factors
+18444	GSK3B	Homo sapiens	REACTOME	Immune System
+18444	TYK2	Homo sapiens	REACTOME	Immune System
+18830	PLD3	Homo sapiens	REACTOME	Phospholipid metabolism
+15384	IKBKG	Homo sapiens	PID_NCI	BCR signaling pathway
+15695	IKBKG	Homo sapiens	PID_NCI	Fc-epsilon receptor I signaling in mast cells
+17802	JAK1	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+18444	XRCC5	Homo sapiens	REACTOME	Immune System
+16744	PSMD2	Homo sapiens	REACTOME	p53-Independent G1/S DNA damage checkpoint
+13686	PSMD2	Homo sapiens	REACTOME	Vpu mediated degradation of CD4
+17420	PSMD2	Homo sapiens	REACTOME	S Phase
+16763	CBL	Homo sapiens	REACTOME	SMAD4 MH2 Domain Mutants in Cancer
+2815	JAK3	Homo sapiens	KEGG	Primary immunodeficiency
+15614	FBXW11	Homo sapiens	PID_NCI	Hedgehog signaling events mediated by Gli proteins
+17071	PTPN6	Homo sapiens	REACTOME	Cell-Cell communication
+15185	SOCS1	Homo sapiens	PID_NCI	IL12-mediated signaling events
+18444	VAV1	Homo sapiens	REACTOME	Immune System
+18630	NFKB1	Homo sapiens	REACTOME	Cellular Senescence
+19829	NCOA1	Homo sapiens	REACTOME	Phase 1 - Functionalization of compounds
+13309	VAV1	Homo sapiens	REACTOME	PI-3K cascade
+13678	PSMD2	Homo sapiens	REACTOME	Vif-mediated degradation of APOBEC3G
+4397	IKBKG	Homo sapiens	KEGG	Pathways in cancer
+16752	PSMD2	Homo sapiens	REACTOME	Processing-defective Hh variants abrogate ligand secretion
+18305	IKBKG	Homo sapiens	REACTOME	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
+13077	IRF8	Homo sapiens	REACTOME	Interferon gamma signaling
+515	GHR	Homo sapiens	KEGG	Cytokine-cytokine receptor interaction
+13080	CRKL	Homo sapiens	REACTOME	Regulation of signaling by CBL
+13074	IRF8	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+13082	CRKL	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+15318	NR3C1	Homo sapiens	PID_NCI	AP-1 transcription factor network
+461	CBL	Homo sapiens	KEGG	ErbB signaling pathway
+18501	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH1 PEST Domain Mutants in Cancer
+18606	JAK1	Homo sapiens	REACTOME	Insulin receptor signalling cascade
+17767	TYK2	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+595	GSK3B	Homo sapiens	KEGG	Melanogenesis
+16794	PPARG	Homo sapiens	REACTOME	Developmental Biology
+15321	NR3C1	Homo sapiens	PID_NCI	Glucocorticoid receptor regulatory network
+13330	VAV1	Homo sapiens	REACTOME	Signaling by PDGF
+13072	IRS2	Homo sapiens	REACTOME	Growth hormone receptor signaling
+15198	PTPN1	Homo sapiens	PID_NCI	Signaling events mediated by PTP1B
+19561	PSMD2	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+19190	NFKBIB	Homo sapiens	REACTOME	Activated TLR4 signalling
+18444	PLD3	Homo sapiens	REACTOME	Immune System
+18112	JAK1	Homo sapiens	REACTOME	IRS-mediated signalling
+13715	NR4A1	Homo sapiens	REACTOME	Constitutive PI3K/AKT Signaling in Cancer
+13329	VAV1	Homo sapiens	REACTOME	Downstream signal transduction
+13325	VAV1	Homo sapiens	REACTOME	Signaling by SCF-KIT
+13320	VAV1	Homo sapiens	REACTOME	Signaling by FGFR
+13073	PTPN1	Homo sapiens	REACTOME	Regulation of IFNA signaling
+424	NFKB1	Homo sapiens	KEGG	Acute myeloid leukemia
+13824	STAM2	Homo sapiens	REACTOME	Endosomal Sorting Complex Required For Transport (ESCRT)
+13074	PTPN1	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+15320	CRKL	Homo sapiens	PID_NCI	Neurotrophic factor-mediated Trk receptor signaling
+19195	IRS2	Homo sapiens	REACTOME	PI3K/AKT Signaling in Cancer
+567	PLD3	Homo sapiens	KEGG	Ether lipid metabolism
+13076	PTPN1	Homo sapiens	REACTOME	Regulation of IFNG signaling
+17789	TYK2	Homo sapiens	REACTOME	Axon guidance
+17476	BIRC3	Homo sapiens	REACTOME	Innate Immune System
+13077	PTPN1	Homo sapiens	REACTOME	Interferon gamma signaling
+10364	CRKL	Homo sapiens	KEGG	Bacterial invasion of epithelial cells
+17418	PTPN6	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+15887	NFKB1	Homo sapiens	PID_NCI	Osteopontin-mediated events
+449	FBXW11	Homo sapiens	KEGG	Hedgehog signaling pathway
+13300	NOTCH1	Homo sapiens	REACTOME	Pre-NOTCH Transcription and Translation
+17346	TYK2	Homo sapiens	REACTOME	Signaling by VEGF
+13301	NOTCH1	Homo sapiens	REACTOME	Pre-NOTCH Processing in the Endoplasmic Reticulum
+13302	NOTCH1	Homo sapiens	REACTOME	Pre-NOTCH Processing in Golgi
+13000	TYK2	Homo sapiens	REACTOME	ERK1 activation
+16794	JAK1	Homo sapiens	REACTOME	Developmental Biology
+18003	VAV1	Homo sapiens	REACTOME	GPCR downstream signaling
+17710	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 2 (TLR2) Cascade
+15836	PLAUR	Homo sapiens	PID_NCI	amb2 Integrin signaling
+13002	TYK2	Homo sapiens	REACTOME	ERK activation
+13001	TYK2	Homo sapiens	REACTOME	ERK2 activation
+13004	TYK2	Homo sapiens	REACTOME	DAP12 interactions
+570	GSK3B	Homo sapiens	KEGG	Basal cell carcinoma
+13003	TYK2	Homo sapiens	REACTOME	DAP12 signaling
+17797	TYK2	Homo sapiens	REACTOME	RAF/MAP kinase cascade
+17027	CBL	Homo sapiens	REACTOME	Loss of Function of SMAD4 in Cancer
+19271	NFKB1	Homo sapiens	REACTOME	Senescence-Associated Secretory Phenotype (SASP)
+18888	PLD3	Homo sapiens	REACTOME	Fcgamma receptor (FCGR) dependent phagocytosis
+18444	KPNA1	Homo sapiens	REACTOME	Immune System
+15598	IRF8	Homo sapiens	PID_NCI	GMCSF-mediated signaling events
+15913	BIRC3	Homo sapiens	NETPATH	TNFalpha
+445	FBXW11	Homo sapiens	KEGG	Wnt signaling pathway
+10364	CBL	Homo sapiens	KEGG	Bacterial invasion of epithelial cells
+531	PTPN1	Homo sapiens	KEGG	Insulin signaling pathway
+3957	PELP1	Homo sapiens	PID_BIOCARTA	Pelp1 modulation of estrogen receptor activity
+4113	PTPN6	Homo sapiens	PID_BIOCARTA	Growth hormone signaling pathway
+17802	NR4A1	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+17055	CBL	Homo sapiens	REACTOME	Loss of Function of SMAD2/3 in Cancer
+546	GSK3B	Homo sapiens	KEGG	Focal adhesion
+13739	NR4A1	Homo sapiens	REACTOME	Nuclear Receptor transcription pathway
+19698	NFKB1	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+483	CRKL	Homo sapiens	KEGG	Renal cell carcinoma
+16244	GSK3B	Homo sapiens	INOH	Hedgehog signaling pathway
+3948	IFNAR1	Homo sapiens	PID_BIOCARTA	Ifn alpha signaling pathway
+578	VAV1	Homo sapiens	KEGG	Natural killer cell mediated cytotoxicity
+487	CRKL	Homo sapiens	KEGG	MAPK signaling pathway
+15231	PPARG	Homo sapiens	PID_NCI	Calcineurin-regulated NFAT-dependent transcription in lymphocytes
+17418	PTPN1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13742	NR4A1	Homo sapiens	REACTOME	Generic Transcription Pathway
+15811	PLAUR	Homo sapiens	PID_NCI	Beta5 beta6 beta7 and beta8 integrin cell surface interactions
+19514	PSMD2	Homo sapiens	REACTOME	Host Interactions of HIV factors
+15321	STAT1	Homo sapiens	PID_NCI	Glucocorticoid receptor regulatory network
+4173	PPARG	Homo sapiens	PID_BIOCARTA	Basic mechanism of action of ppara pparb(d) and pparg and effects on gene expression
+10374	CRKL	Homo sapiens	KEGG	Shigellosis
+568	GHR	Homo sapiens	KEGG	Jak-STAT signaling pathway
+18983	VAV1	Homo sapiens	REACTOME	Cell death signalling via NRAGE, NRIF and NADE
+18371	NFKBIB	Homo sapiens	REACTOME	Adaptive Immune System
+19770	PPARG	Homo sapiens	REACTOME	Gene Expression
+15636	PPARG	Homo sapiens	PID_NCI	Noncanonical Wnt signaling pathway
+19523	PSMD2	Homo sapiens	REACTOME	Regulation of DNA replication
+563	GSK3B	Homo sapiens	KEGG	T cell receptor signaling pathway
+4091	NFKBIB	Homo sapiens	PID_BIOCARTA	Hypoxia and p53 in the cardiovascular system
+15110	VAV1	Homo sapiens	PID_NCI	TCR signaling in naïve CD4+ T cells
+12942	ITGB3BP	Homo sapiens	REACTOME	Separation of Sister Chromatids
+18059	KPNA1	Homo sapiens	REACTOME	Interferon Signaling
+12940	ITGB3BP	Homo sapiens	REACTOME	Mitotic Prometaphase
+13048	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 5 (TLR5) Cascade
+13046	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+13043	TYK2	Homo sapiens	REACTOME	MyD88 cascade initiated on plasma membrane
+13044	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 10 (TLR10) Cascade
+13041	TYK2	Homo sapiens	REACTOME	MyD88 dependent cascade initiated on endosome
+13042	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 9 (TLR9) Cascade
+13040	TYK2	Homo sapiens	REACTOME	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+18952	PSMD2	Homo sapiens	REACTOME	degradation of AXIN
+19507	NFKBIB	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+17980	NFKB1	Homo sapiens	REACTOME	Signal Transduction
+13309	GSK3B	Homo sapiens	REACTOME	PI-3K cascade
+12939	ITGB3BP	Homo sapiens	REACTOME	Resolution of Sister Chromatid Cohesion
+17476	NR4A1	Homo sapiens	REACTOME	Innate Immune System
+19557	XRCC5	Homo sapiens	REACTOME	Cytosolic sensors of pathogen-associated DNA 
+15770	SRF	Homo sapiens	PID_NCI	PDGFR-alpha signaling pathway
+19561	VAV1	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+15595	GSK3B	Homo sapiens	PID_NCI	Role of Calcineurin-dependent NFAT signaling in lymphocytes
+4011	CBL	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+19561	GSK3B	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+563	VAV1	Homo sapiens	KEGG	T cell receptor signaling pathway
+13330	GSK3B	Homo sapiens	REACTOME	Signaling by PDGF
+18934	PSMD2	Homo sapiens	REACTOME	M/G1 Transition
+505	PTPN1	Homo sapiens	KEGG	Adherens junction
+13327	GSK3B	Homo sapiens	REACTOME	Beta-catenin phosphorylation cascade
+532	VAV1	Homo sapiens	KEGG	B cell receptor signaling pathway
+13328	GSK3B	Homo sapiens	REACTOME	Degradation of beta-catenin by the destruction complex
+13329	GSK3B	Homo sapiens	REACTOME	Downstream signal transduction
+12912	ITGB3BP	Homo sapiens	REACTOME	Deposition of new CENPA-containing nucleosomes at the centromere
+3954	JAK3	Homo sapiens	PID_BIOCARTA	Il 2 signaling pathway
+4087	HDAC5	Homo sapiens	PID_BIOCARTA	Control of skeletal myogenesis by hdac and calcium/calmodulin-dependent kinase (camk)
+16818	CRKL	Homo sapiens	REACTOME	Signalling by NGF
+3942	NOTCH1	Homo sapiens	PID_BIOCARTA	Proteolysis and signaling pathway of notch
+13034	TYK2	Homo sapiens	REACTOME	MyD88:Mal cascade initiated on plasma membrane
+13035	TYK2	Homo sapiens	REACTOME	Toll Like Receptor TLR1:TLR2 Cascade
+13036	TYK2	Homo sapiens	REACTOME	Toll Like Receptor TLR6:TLR2 Cascade
+13320	GSK3B	Homo sapiens	REACTOME	Signaling by FGFR
+17767	NFKBIB	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+13325	GSK3B	Homo sapiens	REACTOME	Signaling by SCF-KIT
+13310	JAK1	Homo sapiens	REACTOME	FRS2-mediated cascade
+13030	TYK2	Homo sapiens	REACTOME	MyD88-independent cascade 
+13031	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+4075	HDAC5	Homo sapiens	PID_BIOCARTA	Mets affect on macrophage differentiation
+546	VAV1	Homo sapiens	KEGG	Focal adhesion
+13534	PPARG	Homo sapiens	REACTOME	Fatty acid, triacylglycerol, and ketone body metabolism
+4036	IFNAR1	Homo sapiens	PID_BIOCARTA	Bone remodeling
+13320	JAK1	Homo sapiens	REACTOME	Signaling by FGFR
+4397	NFKB1	Homo sapiens	KEGG	Pathways in cancer
+17392	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH1 in Cancer
+13083	TYK2	Homo sapiens	REACTOME	Interleukin-2 signaling
+13329	JAK1	Homo sapiens	REACTOME	Downstream signal transduction
+16715	JAK1	Homo sapiens	REACTOME	SHC-related events
+13325	JAK1	Homo sapiens	REACTOME	Signaling by SCF-KIT
+8117	TBK1	Homo sapiens	KEGG	Cytosolic DNA-sensing pathway
+510	VAV1	Homo sapiens	KEGG	Leukocyte transendothelial migration
+4397	STAT5A	Homo sapiens	KEGG	Pathways in cancer
+416	NR3C1	Homo sapiens	KEGG	Neuroactive ligand-receptor interaction
+13113	PLAUR	Homo sapiens	REACTOME	Dissolution of Fibrin Clot
+4065	CBL	Homo sapiens	PID_BIOCARTA	Cbl mediated ligand-induced downregulation of egf receptors pathway
+13094	IKBKG	Homo sapiens	REACTOME	Activation of NF-kappaB in B cells
+487	SRF	Homo sapiens	KEGG	MAPK signaling pathway
+13330	JAK1	Homo sapiens	REACTOME	Signaling by PDGF
+13078	IKBKG	Homo sapiens	REACTOME	Interleukin-1 signaling
+17476	JAK1	Homo sapiens	REACTOME	Innate Immune System
+17710	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 2 (TLR2) Cascade
+16799	IKBKG	Homo sapiens	REACTOME	FCERI mediated NF-kB activation
+4058	HDAC5	Homo sapiens	PID_BIOCARTA	Nfat and hypertrophy of the heart 
+4389	IKBKG	Homo sapiens	KEGG	Chemokine signaling pathway
+15284	GHR	Homo sapiens	PID_NCI	Notch-mediated HES/HEY network
+19339	PSMD2	Homo sapiens	REACTOME	G1/S DNA Damage Checkpoints
+13068	IKBKG	Homo sapiens	REACTOME	Downstream TCR signaling
+4379	NFKB1	Homo sapiens	KEGG	Neurotrophin signaling pathway
+4071	SRF	Homo sapiens	PID_BIOCARTA	Pdgf signaling pathway
+16836	VCP	Homo sapiens	REACTOME	Signaling by Hedgehog
+19015	ELP2	Homo sapiens	REACTOME	Chromatin modifying enzymes
+4397	JAK1	Homo sapiens	KEGG	Pathways in cancer
+15384	LYN	Homo sapiens	PID_NCI	BCR signaling pathway
+18444	SOCS1	Homo sapiens	REACTOME	Immune System
+17418	GHR	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+17449	JAK1	Homo sapiens	REACTOME	Signaling by GPCR
+13056	IKBKG	Homo sapiens	REACTOME	NOD1/2 Signaling Pathway
+13073	TYK2	Homo sapiens	REACTOME	Regulation of IFNA signaling
+4389	NFKB1	Homo sapiens	KEGG	Chemokine signaling pathway
+3971	HDAC5	Homo sapiens	PID_BIOCARTA	Regulation of pgc-1a
+14930	VAV1	Homo sapiens	PID_NCI	TCR signaling in naïve CD8+ T cells
+13074	TYK2	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+13079	TYK2	Homo sapiens	REACTOME	Interleukin-6 signaling
+18205	FBXW11	Homo sapiens	REACTOME	Cell Cycle
+16656	IRS2	Homo sapiens	REACTOME	Signaling by FGFR in disease
+17056	NOTCH1	Homo sapiens	REACTOME	Pre-NOTCH Expression and Processing
+18501	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH1 PEST Domain Mutants in Cancer
+18371	IKBKG	Homo sapiens	REACTOME	Adaptive Immune System
+17710	SOCS1	Homo sapiens	REACTOME	Toll Like Receptor 2 (TLR2) Cascade
+19698	IRS2	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+4128	JAK1	Homo sapiens	PID_BIOCARTA	Il-10 anti-inflammatory signaling pathway
+15284	NCOA1	Homo sapiens	PID_NCI	Notch-mediated HES/HEY network
+18059	SOCS1	Homo sapiens	REACTOME	Interferon Signaling
+15557	PELP1	Homo sapiens	PID_NCI	Plasma membrane estrogen receptor signaling
+4023	LYN	Homo sapiens	PID_BIOCARTA	Bcr signaling pathway
+4155	GSK3B	Homo sapiens	PID_BIOCARTA	Skeletal muscle hypertrophy is regulated via akt-mtor pathway
+4152	GSK3B	Homo sapiens	PID_BIOCARTA	Multi-step regulation of transcription by pitx2
+17980	GHR	Homo sapiens	REACTOME	Signal Transduction
+13094	FBXW11	Homo sapiens	REACTOME	Activation of NF-kappaB in B cells
+4045	DPF2	Homo sapiens	PID_BIOCARTA	B cell survival pathway
+13075	KPNA1	Homo sapiens	REACTOME	ISG15 antiviral mechanism
+15122	NFKB1	Homo sapiens	PID_NCI	IL1-mediated signaling events
+4024	CRKL	Homo sapiens	PID_BIOCARTA	Integrin signaling pathway
+4119	JAK1	Homo sapiens	PID_BIOCARTA	Il22 soluble receptor signaling pathway
+18606	IRS2	Homo sapiens	REACTOME	Insulin receptor signalling cascade
+15279	HSPA4	Homo sapiens	PID_NCI	Validated targets of C-MYC transcriptional activation
+4169	GSK3B	Homo sapiens	PID_BIOCARTA	Phosphoinositides and their downstream targets
+16149	SOCS1	Homo sapiens	INOH	Growth hormone signaling
+17727	JAK1	Homo sapiens	REACTOME	G-protein beta:gamma signalling
+15826	VAV1	Homo sapiens	PID_NCI	IL6-mediated signaling events
+16839	VAV1	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+4172	GSK3B	Homo sapiens	PID_BIOCARTA	Wnt signaling pathway
+17449	JAK3	Homo sapiens	REACTOME	Signaling by GPCR
+10355	PTPN6	Homo sapiens	KEGG	Leishmaniasis
+13325	NR4A1	Homo sapiens	REACTOME	Signaling by SCF-KIT
+17980	STAM2	Homo sapiens	REACTOME	Signal Transduction
+4389	JAK3	Homo sapiens	KEGG	Chemokine signaling pathway
+15504	PTPN6	Homo sapiens	PID_NCI	Signaling events mediated by VEGFR1 and VEGFR2
+13329	NR4A1	Homo sapiens	REACTOME	Downstream signal transduction
+15420	JAK3	Homo sapiens	PID_NCI	Signaling events mediated by TCPTP
+13320	NR4A1	Homo sapiens	REACTOME	Signaling by FGFR
+19807	GSK3B	Homo sapiens	REACTOME	Disease
+14994	PLAUR	Homo sapiens	PID_NCI	Validated transcriptional targets of AP1 family members Fra1 and Fra2
+4049	CRKL	Homo sapiens	PID_BIOCARTA	Angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling
+18753	GSK3B	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+18371	NR4A1	Homo sapiens	REACTOME	Adaptive Immune System
+19807	VAV1	Homo sapiens	REACTOME	Disease
+13114	LYN	Homo sapiens	REACTOME	Platelet Adhesion to exposed collagen
+15439	JAK3	Homo sapiens	PID_NCI	IL4-mediated signaling events
+16104	VAV1	Homo sapiens	INOH	CD4 T cell receptor signaling
+13111	LYN	Homo sapiens	REACTOME	PECAM1 interactions
+13112	LYN	Homo sapiens	REACTOME	Cell surface interactions at the vascular wall
+16879	IRS2	Homo sapiens	REACTOME	Downstream signaling of activated FGFR
+19027	GSK3B	Homo sapiens	REACTOME	deletions in the AXIN genes in hepatocellular carcinoma result in elevated WNT signaling
+16818	VAV1	Homo sapiens	REACTOME	Signalling by NGF
+17662	LYN	Homo sapiens	REACTOME	Platelet activation, signaling and aggregation
+13330	NR4A1	Homo sapiens	REACTOME	Signaling by PDGF
+15110	PTPN6	Homo sapiens	PID_NCI	TCR signaling in naïve CD4+ T cells
+4162	JAK1	Homo sapiens	PID_BIOCARTA	Egf signaling pathway
+515	IFNAR1	Homo sapiens	KEGG	Cytokine-cytokine receptor interaction
+15321	NR4A1	Homo sapiens	PID_NCI	Glucocorticoid receptor regulatory network
+15928	PTPN6	Homo sapiens	NETPATH	TSLP
+16513	TYK2	Homo sapiens	NETPATH	Oncostatin_M
+15154	NFKB1	Homo sapiens	PID_NCI	TNF receptor signaling pathway
+15921	PTPN6	Homo sapiens	NETPATH	IL5
+17257	HMGA2	Homo sapiens	REACTOME	Formation of Senescence-Associated Heterochromatin Foci (SAHF)
+15920	PTPN6	Homo sapiens	NETPATH	IL4
+18647	PSMD2	Homo sapiens	REACTOME	Hedgehog ligand biogenesis
+15925	PTPN6	Homo sapiens	NETPATH	RANKL
+10367	STAT1	Homo sapiens	KEGG	Osteoclast differentiation
+17980	STAT5A	Homo sapiens	REACTOME	Signal Transduction
+13715	GSK3B	Homo sapiens	REACTOME	Constitutive PI3K/AKT Signaling in Cancer
+16212	NFKB1	Homo sapiens	INOH	TNFR1 signaling pathway
+18744	CRKL	Homo sapiens	REACTOME	Signaling by Interleukins
+13127	LYN	Homo sapiens	REACTOME	GPVI-mediated activation cascade
+18748	CRKL	Homo sapiens	REACTOME	Signalling to ERKs
+13309	NR4A1	Homo sapiens	REACTOME	PI-3K cascade
+18732	GSK3B	Homo sapiens	REACTOME	TCF dependent signaling in response to WNT
+18656	PSMD2	Homo sapiens	REACTOME	Mitotic Anaphase
+17767	SOCS1	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+10355	STAT1	Homo sapiens	KEGG	Leishmaniasis
+15931	PTPN6	Homo sapiens	NETPATH	Prolactin
+4386	CBL	Homo sapiens	KEGG	Endocytosis
+17110	PSMD2	Homo sapiens	REACTOME	AXIN missense mutants destabilize the destruction complex
+15059	VAV1	Homo sapiens	PID_NCI	CXCR4-mediated signaling events
+17767	JAK1	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+15439	IRS2	Homo sapiens	PID_NCI	IL4-mediated signaling events
+18606	TYK2	Homo sapiens	REACTOME	Insulin receptor signalling cascade
+16132	VAV1	Homo sapiens	INOH	B cell receptor signaling
+15908	PTPN6	Homo sapiens	NETPATH	EGFR1
+17908	PSMD2	Homo sapiens	REACTOME	DNA Replication Pre-Initiation
+18661	PSMD2	Homo sapiens	REACTOME	phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the destruction complex
+17980	GSK3B	Homo sapiens	REACTOME	Signal Transduction
+4397	CBL	Homo sapiens	KEGG	Pathways in cancer
+14925	BIRC3	Homo sapiens	PID_NCI	Ceramide signaling pathway
+10385	STAT1	Homo sapiens	KEGG	Toxoplasmosis
+17797	JAK1	Homo sapiens	REACTOME	RAF/MAP kinase cascade
+18444	STAT5A	Homo sapiens	REACTOME	Immune System
+13715	VAV1	Homo sapiens	REACTOME	Constitutive PI3K/AKT Signaling in Cancer
+15366	SRF	Homo sapiens	PID_NCI	Signaling events mediated by HDAC Class II
+16138	VAV1	Homo sapiens	INOH	Integrin signaling pathway
+17273	VAV1	Homo sapiens	REACTOME	Signaling by Rho GTPases
+15185	NFKB1	Homo sapiens	PID_NCI	IL12-mediated signaling events
+15916	PTPN6	Homo sapiens	NETPATH	BCR
+17980	VAV1	Homo sapiens	REACTOME	Signal Transduction
+15918	PTPN6	Homo sapiens	NETPATH	IL2
+15919	PTPN6	Homo sapiens	NETPATH	IL3
+18205	ITGB3BP	Homo sapiens	REACTOME	Cell Cycle
+17476	NFKBIB	Homo sapiens	REACTOME	Innate Immune System
+15915	PTPN6	Homo sapiens	NETPATH	TCR
+15366	NR3C1	Homo sapiens	PID_NCI	Signaling events mediated by HDAC Class II
+15910	PTPN6	Homo sapiens	NETPATH	KitReceptor
+15899	NOTCH1	Homo sapiens	PID_NCI	Notch signaling pathway
+14909	BIRC3	Homo sapiens	PID_NCI	CD40/CD40L signaling
+10404	IKBKG	Homo sapiens	KEGG	Hepatitis C
+17133	PSMD2	Homo sapiens	REACTOME	Regulation of mitotic cell cycle
+13212	GSK3B	Homo sapiens	REACTOME	GAB1 signalosome
+16509	TYK2	Homo sapiens	NETPATH	IL11
+16125	SOCS1	Homo sapiens	INOH	JAK STAT pathway and regulation
+15924	VCP	Homo sapiens	NETPATH	IL9
+13216	GSK3B	Homo sapiens	REACTOME	Signaling by EGFR
+17789	JAK1	Homo sapiens	REACTOME	Axon guidance
+17979	PSMD2	Homo sapiens	REACTOME	Apoptosis
+13329	CRKL	Homo sapiens	REACTOME	Downstream signal transduction
+15923	GSK3B	Homo sapiens	NETPATH	IL-7
+15926	GSK3B	Homo sapiens	NETPATH	Leptin
+19487	GSK3B	Homo sapiens	REACTOME	XAV939 inhibits tankyrase, stabilizing AXIN
+16836	GSK3B	Homo sapiens	REACTOME	Signaling by Hedgehog
+5713	NFKBIB	Homo sapiens	KEGG	RIG-I-like receptor signaling pathway
+16839	GSK3B	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+15930	GSK3B	Homo sapiens	NETPATH	TWEAK
+15931	GSK3B	Homo sapiens	NETPATH	Prolactin
+15427	TYK2	Homo sapiens	PID_NCI	IL23-mediated signaling events
+19807	PSMD2	Homo sapiens	REACTOME	Disease
+16190	GSK3B	Homo sapiens	INOH	VEGF signaling pathway
+14944	PLAUR	Homo sapiens	PID_NCI	Beta1 integrin cell surface interactions
+14943	PTPN1	Homo sapiens	PID_NCI	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)
+15915	GSK3B	Homo sapiens	NETPATH	TCR
+17980	PSMD2	Homo sapiens	REACTOME	Signal Transduction
+15869	CBL	Homo sapiens	PID_NCI	IFN-gamma pathway
+15912	GSK3B	Homo sapiens	NETPATH	Wnt
+15919	GSK3B	Homo sapiens	NETPATH	IL3
+18205	PSMD2	Homo sapiens	REACTOME	Cell Cycle
+15917	GSK3B	Homo sapiens	NETPATH	IL1
+16833	GSK3B	Homo sapiens	REACTOME	APC truncation mutants are not K63 polyubiquitinated
+15916	GSK3B	Homo sapiens	NETPATH	BCR
+16826	GSK3B	Homo sapiens	REACTOME	AXIN mutants destabilize the destruction complex, activating WNT signaling
+15921	GSK3B	Homo sapiens	NETPATH	IL5
+15922	GSK3B	Homo sapiens	NETPATH	IL6
+16917	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+13006	PLD3	Homo sapiens	REACTOME	Role of phospholipids in phagocytosis
+15606	XRCC5	Homo sapiens	PID_NCI	BARD1 signaling events
+18948	COPB2	Homo sapiens	REACTOME	Golgi to ER Retrograde Transport
+15880	LYN	Homo sapiens	PID_NCI	IL5-mediated signaling events
+13330	CRKL	Homo sapiens	REACTOME	Signaling by PDGF
+4180	JAK1	Homo sapiens	PID_BIOCARTA	Il-7 signal transduction
+15044	SOCS1	Homo sapiens	PID_NCI	IL2-mediated signaling events
+13914	JAK1	Homo sapiens	REACTOME	NCAM signaling for neurite out-growth
+15931	SOCS1	Homo sapiens	NETPATH	Prolactin
+16222	JAK1	Homo sapiens	INOH	IFN gamma signaling
+15835	CBL	Homo sapiens	PID_NCI	Insulin Pathway
+10385	NFKB1	Homo sapiens	KEGG	Toxoplasmosis
+16818	GSK3B	Homo sapiens	REACTOME	Signalling by NGF
+14909	STAT5A	Homo sapiens	PID_NCI	CD40/CD40L signaling
+578	IFNAR1	Homo sapiens	KEGG	Natural killer cell mediated cytotoxicity
+16186	GSK3B	Homo sapiens	INOH	Insulin receptor signaling
+18753	CRKL	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+500	PPARG	Homo sapiens	KEGG	Thyroid cancer
+17967	PSMD2	Homo sapiens	REACTOME	G1/S Transition
+18220	PSMD2	Homo sapiens	REACTOME	Antigen processing-Cross presentation
+564	IFNAR1	Homo sapiens	KEGG	Toll-like receptor signaling pathway
+568	IFNAR1	Homo sapiens	KEGG	Jak-STAT signaling pathway
+15404	CBL	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+4171	JAK1	Homo sapiens	PID_BIOCARTA	Ifn gamma signaling pathway
+15913	COMMD1	Homo sapiens	NETPATH	TNFalpha
+10385	BIRC3	Homo sapiens	KEGG	Toxoplasmosis
+13263	GSK3B	Homo sapiens	REACTOME	PI3K events in ERBB4 signaling
+10358	NFKB1	Homo sapiens	KEGG	Amoebiasis
+15231	PTPN1	Homo sapiens	PID_NCI	Calcineurin-regulated NFAT-dependent transcription in lymphocytes
+18744	PTPN6	Homo sapiens	REACTOME	Signaling by Interleukins
+16151	GSK3B	Homo sapiens	INOH	EPO signaling pathway
+15816	CBL	Homo sapiens	PID_NCI	PDGFR-beta signaling pathway
+13265	GSK3B	Homo sapiens	REACTOME	Signaling by ERBB4
+18097	PSMD2	Homo sapiens	REACTOME	misspliced GSK3beta mutants stabilize beta-catenin
+18744	VAV1	Homo sapiens	REACTOME	Signaling by Interleukins
+18745	VAV1	Homo sapiens	REACTOME	VEGFA-VEGFR2 Pathway
+15076	CBL	Homo sapiens	PID_NCI	IL8- and CXCR1-mediated signaling events
+10366	NFKB1	Homo sapiens	KEGG	Chagas disease (American trypanosomiasis)
+13072	GHR	Homo sapiens	REACTOME	Growth hormone receptor signaling
+10367	NFKB1	Homo sapiens	KEGG	Osteoclast differentiation
+10404	GSK3B	Homo sapiens	KEGG	Hepatitis C
+16879	GSK3B	Homo sapiens	REACTOME	Downstream signaling of activated FGFR
+16879	VAV1	Homo sapiens	REACTOME	Downstream signaling of activated FGFR
+4177	GHR	Homo sapiens	PID_BIOCARTA	Akt signaling pathway
+566	PPARG	Homo sapiens	KEGG	PPAR signaling pathway
+18085	PSMD2	Homo sapiens	REACTOME	Hedgehog 'off' state
+16818	IRS2	Homo sapiens	REACTOME	Signalling by NGF
+18656	ITGB3BP	Homo sapiens	REACTOME	Mitotic Anaphase
+16165	GSK3B	Homo sapiens	INOH	Wnt signaling pathway
+18371	PTPN6	Homo sapiens	REACTOME	Adaptive Immune System
+15061	CBL	Homo sapiens	PID_NCI	Reelin signaling pathway
+19698	NFKBIB	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+18112	IRS2	Homo sapiens	REACTOME	IRS-mediated signalling
+15467	CBL	Homo sapiens	PID_NCI	CDC42 signaling events
+15404	CRKL	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+10374	NFKB1	Homo sapiens	KEGG	Shigellosis
+17710	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 2 (TLR2) Cascade
+15906	GSK3B	Homo sapiens	NETPATH	AndrogenReceptor
+15584	JAK1	Homo sapiens	PID_NCI	IL2 signaling events mediated by STAT5
+15907	GSK3B	Homo sapiens	NETPATH	Notch
+15583	JAK1	Homo sapiens	PID_NCI	SHP2 signaling
+13086	GHR	Homo sapiens	REACTOME	Prolactin receptor signaling
+15908	GSK3B	Homo sapiens	NETPATH	EGFR1
+13286	GSK3B	Homo sapiens	REACTOME	PI3K events in ERBB2 signaling
+15587	PLAUR	Homo sapiens	PID_NCI	Arf6 downstream pathway
+15439	CBL	Homo sapiens	PID_NCI	IL4-mediated signaling events
+4011	CRKL	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+15911	GSK3B	Homo sapiens	NETPATH	TGF_beta_Receptor
+15910	GSK3B	Homo sapiens	NETPATH	KitReceptor
+17272	GSK3B	Homo sapiens	REACTOME	Signaling by Wnt
+13433	PLAUR	Homo sapiens	REACTOME	Attachment of GPI anchor to uPAR
+13291	GSK3B	Homo sapiens	REACTOME	Signaling by ERBB2
+13003	IRS2	Homo sapiens	REACTOME	DAP12 signaling
+13004	IRS2	Homo sapiens	REACTOME	DAP12 interactions
+13325	STAT1	Homo sapiens	REACTOME	Signaling by SCF-KIT
+16839	IRS2	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+13081	JAK1	Homo sapiens	REACTOME	Interleukin receptor SHC signaling
+15915	NR4A1	Homo sapiens	NETPATH	TCR
+13329	STAT1	Homo sapiens	REACTOME	Downstream signal transduction
+13083	JAK1	Homo sapiens	REACTOME	Interleukin-2 signaling
+13082	JAK1	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+19852	LYN	Homo sapiens	REACTOME	FCERI mediated MAPK activation
+13084	JAK1	Homo sapiens	REACTOME	Interleukin-7 signaling
+17418	STAT1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+19856	LYN	Homo sapiens	REACTOME	Hemostasis
+17418	JAK3	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13330	STAT1	Homo sapiens	REACTOME	Signaling by PDGF
+10355	NFKB1	Homo sapiens	KEGG	Leishmaniasis
+16848	GSK3B	Homo sapiens	REACTOME	AMER1 mutants destabilize the destruction complex
+15926	IKBKG	Homo sapiens	NETPATH	Leptin
+13690	CBL	Homo sapiens	REACTOME	Signaling by constitutively active EGFR
+15925	IKBKG	Homo sapiens	NETPATH	RANKL
+14922	NFKB1	Homo sapiens	PID_NCI	Atypical NF-kappaB pathway
+13457	PPARG	Homo sapiens	REACTOME	PPARA activates gene expression
+13458	PPARG	Homo sapiens	REACTOME	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+14925	NFKB1	Homo sapiens	PID_NCI	Ceramide signaling pathway
+15404	VAV1	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+15008	LYN	Homo sapiens	PID_NCI	LPA receptor mediated events
+13011	XRCC5	Homo sapiens	REACTOME	STING mediated induction of host immune responses
+456	PLAUR	Homo sapiens	KEGG	Complement and coagulation cascades
+13031	BIRC3	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+3960	GSK3B	Homo sapiens	PID_BIOCARTA	Segmentation clock
+13030	BIRC3	Homo sapiens	REACTOME	MyD88-independent cascade 
+15913	COPB2	Homo sapiens	NETPATH	TNFalpha
+19807	XRCC5	Homo sapiens	REACTOME	Disease
+16125	GSK3B	Homo sapiens	INOH	JAK STAT pathway and regulation
+15917	IKBKG	Homo sapiens	NETPATH	IL1
+15916	IKBKG	Homo sapiens	NETPATH	BCR
+15404	LYN	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+3967	STAT5A	Homo sapiens	PID_BIOCARTA	Il 3 signaling pathway
+15913	IKBKG	Homo sapiens	NETPATH	TNFalpha
+13074	JAK1	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+13073	JAK1	Homo sapiens	REACTOME	Regulation of IFNA signaling
+13076	JAK1	Homo sapiens	REACTOME	Regulation of IFNG signaling
+13075	JAK1	Homo sapiens	REACTOME	ISG15 antiviral mechanism
+18371	VAV1	Homo sapiens	REACTOME	Adaptive Immune System
+13077	JAK1	Homo sapiens	REACTOME	Interferon gamma signaling
+18444	IL6ST	Homo sapiens	REACTOME	Immune System
+13079	JAK1	Homo sapiens	REACTOME	Interleukin-6 signaling
+16818	NR4A1	Homo sapiens	REACTOME	Signalling by NGF
+13026	BIRC3	Homo sapiens	REACTOME	IKK complex recruitment mediated by RIP1
+18371	GSK3B	Homo sapiens	REACTOME	Adaptive Immune System
+16848	PSMD2	Homo sapiens	REACTOME	AMER1 mutants destabilize the destruction complex
+18628	ITGB3BP	Homo sapiens	REACTOME	M Phase
+19698	FBXW11	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+18753	VAV1	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+14909	NFKB1	Homo sapiens	PID_NCI	CD40/CD40L signaling
+13048	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 5 (TLR5) Cascade
+13046	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+13056	BIRC3	Homo sapiens	REACTOME	NOD1/2 Signaling Pathway
+13044	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 10 (TLR10) Cascade
+13043	JAK1	Homo sapiens	REACTOME	MyD88 cascade initiated on plasma membrane
+13042	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 9 (TLR9) Cascade
+19512	NCOA1	Homo sapiens	REACTOME	Biological oxidations
+19856	PLAUR	Homo sapiens	REACTOME	Hemostasis
+13041	JAK1	Homo sapiens	REACTOME	MyD88 dependent cascade initiated on endosome
+13040	JAK1	Homo sapiens	REACTOME	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+19190	SOCS1	Homo sapiens	REACTOME	Activated TLR4 signalling
+4168	SRF	Homo sapiens	PID_BIOCARTA	Igf-1 signaling pathway
+16836	PSMD2	Homo sapiens	REACTOME	Signaling by Hedgehog
+16833	PSMD2	Homo sapiens	REACTOME	APC truncation mutants are not K63 polyubiquitinated
+19821	XRCC5	Homo sapiens	REACTOME	DNA Repair
+15518	NCOA1	Homo sapiens	PID_NCI	HIF-1-alpha transcription factor network
+15262	PTPN1	Homo sapiens	PID_NCI	IGF1 pathway
+16106	GSK3B	Homo sapiens	INOH	IL-7 signaling
+13914	TYK2	Homo sapiens	REACTOME	NCAM signaling for neurite out-growth
+13004	NR4A1	Homo sapiens	REACTOME	DAP12 interactions
+17418	IL6ST	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+17476	TYK2	Homo sapiens	REACTOME	Innate Immune System
+13046	BIRC3	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+13003	NR4A1	Homo sapiens	REACTOME	DAP12 signaling
+17346	JAK1	Homo sapiens	REACTOME	Signaling by VEGF
+18204	CBL	Homo sapiens	REACTOME	Loss of Function of TGFBR2 in Cancer
+16826	PSMD2	Homo sapiens	REACTOME	AXIN mutants destabilize the destruction complex, activating WNT signaling
+18112	TYK2	Homo sapiens	REACTOME	IRS-mediated signalling
+14930	IKBKG	Homo sapiens	PID_NCI	TCR signaling in naïve CD8+ T cells
+3958	GSK3B	Homo sapiens	PID_BIOCARTA	Cell cycle: g1/s check point
+16726	NCOA1	Homo sapiens	REACTOME	Transmembrane transport of small molecules
+13742	NCOA1	Homo sapiens	REACTOME	Generic Transcription Pathway
+13740	NCOA1	Homo sapiens	REACTOME	YAP1- and WWTR1 (TAZ)-stimulated gene expression
+13212	VAV1	Homo sapiens	REACTOME	GAB1 signalosome
+15504	CBL	Homo sapiens	PID_NCI	Signaling events mediated by VEGFR1 and VEGFR2
+13704	STAT5A	Homo sapiens	REACTOME	Signaling by FGFR mutants
+13700	STAT5A	Homo sapiens	REACTOME	Signaling by FGFR1 fusion mutants
+18003	JAK1	Homo sapiens	REACTOME	GPCR downstream signaling
+15918	SOCS1	Homo sapiens	NETPATH	IL2
+16656	JAK1	Homo sapiens	REACTOME	Signaling by FGFR in disease
+13216	VAV1	Homo sapiens	REACTOME	Signaling by EGFR
+15841	GSK3B	Homo sapiens	PID_NCI	Insulin-mediated glucose transport
+17874	HDAC5	Homo sapiens	REACTOME	FBXW7 Mutants and NOTCH1 in Cancer
+15906	NR3C1	Homo sapiens	NETPATH	AndrogenReceptor
+4397	STAT1	Homo sapiens	KEGG	Pathways in cancer
+13086	STAT5A	Homo sapiens	REACTOME	Prolactin receptor signaling
+15927	SOCS1	Homo sapiens	NETPATH	TSH
+15452	GSK3B	Homo sapiens	PID_NCI	C-MYC pathway
+15920	SOCS1	Homo sapiens	NETPATH	IL4
+13084	STAT5A	Homo sapiens	REACTOME	Interleukin-7 signaling
+15921	SOCS1	Homo sapiens	NETPATH	IL5
+13083	STAT5A	Homo sapiens	REACTOME	Interleukin-2 signaling
+13082	STAT5A	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+17980	NR4A1	Homo sapiens	REACTOME	Signal Transduction
+15504	PTPN2	Homo sapiens	PID_NCI	Signaling events mediated by VEGFR1 and VEGFR2
+16239	JAK1	Homo sapiens	INOH	IFN alpha signaling
+15263	IRF8	Homo sapiens	PID_NCI	Validated targets of C-MYC transcriptional repression
+18138	PSMD2	Homo sapiens	REACTOME	Ubiquitin-dependent degradation of Cyclin D
+13030	JAK1	Homo sapiens	REACTOME	MyD88-independent cascade 
+18371	SOCS1	Homo sapiens	REACTOME	Adaptive Immune System
+13031	JAK1	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+19807	NR4A1	Homo sapiens	REACTOME	Disease
+13331	PSMD2	Homo sapiens	REACTOME	AUF1 (hnRNP D0) destabilizes mRNA
+13034	JAK1	Homo sapiens	REACTOME	MyD88:Mal cascade initiated on plasma membrane
+13035	JAK1	Homo sapiens	REACTOME	Toll Like Receptor TLR1:TLR2 Cascade
+13036	JAK1	Homo sapiens	REACTOME	Toll Like Receptor TLR6:TLR2 Cascade
+13200	VAV1	Homo sapiens	REACTOME	NRAGE signals death through JNK
+13108	PTPN6	Homo sapiens	REACTOME	Platelet homeostasis
+13107	PTPN6	Homo sapiens	REACTOME	Platelet sensitization by LDL
+15908	SOCS1	Homo sapiens	NETPATH	EGFR1
+13112	PTPN6	Homo sapiens	REACTOME	Cell surface interactions at the vascular wall
+15918	NR3C1	Homo sapiens	NETPATH	IL2
+13111	PTPN6	Homo sapiens	REACTOME	PECAM1 interactions
+16241	JAK1	Homo sapiens	INOH	IL-10 signaling
+15910	SOCS1	Homo sapiens	NETPATH	KitReceptor
+13072	STAT5A	Homo sapiens	REACTOME	Growth hormone receptor signaling
+13002	JAK1	Homo sapiens	REACTOME	ERK activation
+13003	JAK1	Homo sapiens	REACTOME	DAP12 signaling
+13000	JAK1	Homo sapiens	REACTOME	ERK1 activation
+18145	PSMD2	Homo sapiens	REACTOME	deletions in the AMER1 gene destabilize the destruction complex
+13001	JAK1	Homo sapiens	REACTOME	ERK2 activation
+13509	PLD3	Homo sapiens	REACTOME	Synthesis of PG
+15133	JAK1	Homo sapiens	PID_NCI	IL27-mediated signaling events
+19894	PSMD2	Homo sapiens	REACTOME	Cell Cycle Checkpoints
+13328	PSMD2	Homo sapiens	REACTOME	Degradation of beta-catenin by the destruction complex
+13004	JAK1	Homo sapiens	REACTOME	DAP12 interactions
+3954	STAT5A	Homo sapiens	PID_BIOCARTA	Il 2 signaling pathway
+18003	JAK3	Homo sapiens	REACTOME	GPCR downstream signaling
+19248	CBL	Homo sapiens	REACTOME	TGFBR1 LBD Mutants in Cancer
+15154	BIRC3	Homo sapiens	PID_NCI	TNF receptor signaling pathway
+16839	NR4A1	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+19096	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH1
+17997	XRCC5	Homo sapiens	REACTOME	Double-Strand Break Repair
+3946	STAT5A	Homo sapiens	PID_BIOCARTA	Inhibition of cellular proliferation by gleevec
+16766	NCOA1	Homo sapiens	REACTOME	Organelle biogenesis and maintenance
+19282	FBXW11	Homo sapiens	REACTOME	Class I MHC mediated antigen processing & presentation
+15233	STAT1	Homo sapiens	PID_NCI	ErbB1 downstream signaling
+15467	GSK3B	Homo sapiens	PID_NCI	CDC42 signaling events
+3994	GSK3B	Homo sapiens	PID_BIOCARTA	Deregulation of cdk5 in alzheimers disease
+17727	JAK3	Homo sapiens	REACTOME	G-protein beta:gamma signalling
+10385	IKBKG	Homo sapiens	KEGG	Toxoplasmosis
+15061	CRKL	Homo sapiens	PID_NCI	Reelin signaling pathway
+17658	GSK3B	Homo sapiens	REACTOME	Degradation of GLI2 by the proteasome
+18782	ELP2	Homo sapiens	REACTOME	Chromatin organization
+10404	IFNAR1	Homo sapiens	KEGG	Hepatitis C
+18753	JAK1	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+15826	TYK2	Homo sapiens	PID_NCI	IL6-mediated signaling events
+13183	TYK2	Homo sapiens	REACTOME	Signalling to p38 via RIT and RIN
+13181	TYK2	Homo sapiens	REACTOME	ARMS-mediated activation
+13180	TYK2	Homo sapiens	REACTOME	Frs2-mediated activation
+13184	TYK2	Homo sapiens	REACTOME	Signalling to RAS
+15404	GSK3B	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+15344	STAT5A	Homo sapiens	PID_NCI	RAC1 signaling pathway
+4113	SRF	Homo sapiens	PID_BIOCARTA	Growth hormone signaling pathway
+16839	STAM2	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+19875	STAM2	Homo sapiens	REACTOME	Membrane Trafficking
+19807	JAK1	Homo sapiens	REACTOME	Disease
+13221	JAK3	Homo sapiens	REACTOME	G beta:gamma signalling through PI3Kgamma
+15480	NR3C1	Homo sapiens	PID_NCI	Regulation of nuclear SMAD2/3 signaling
+582	STAT5A	Homo sapiens	KEGG	Chronic myeloid leukemia
+16644	ELP2	Homo sapiens	REACTOME	HATs acetylate histones
+16723	VCP	Homo sapiens	REACTOME	Cellular responses to stress
+17826	NFKB1	Homo sapiens	REACTOME	p75 NTR receptor-mediated signalling
+19856	PTPN6	Homo sapiens	REACTOME	Hemostasis
+16879	NR4A1	Homo sapiens	REACTOME	Downstream signaling of activated FGFR
+546	BIRC3	Homo sapiens	KEGG	Focal adhesion
+15931	PTPN1	Homo sapiens	NETPATH	Prolactin
+16794	NCOA1	Homo sapiens	REACTOME	Developmental Biology
+17966	CBL	Homo sapiens	REACTOME	TGFBR2 MSI Frameshift Mutants in Cancer
+18841	VCP	Homo sapiens	REACTOME	Cellular response to heat stress
+17628	GSK3B	Homo sapiens	REACTOME	APC truncation mutants have impaired AXIN binding
+19129	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH1 HD Domain Mutants in Cancer
+19496	VAV1	Homo sapiens	REACTOME	FCERI mediated Ca+2 mobilization
+17418	NFKB1	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+17392	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH1 in Cancer
+19190	TYK2	Homo sapiens	REACTOME	Activated TLR4 signalling
+19186	TYK2	Homo sapiens	REACTOME	Prolonged ERK activation events
+19458	VCP	Homo sapiens	REACTOME	HSF1 activation
+18627	PSMD2	Homo sapiens	REACTOME	truncations of AMER1 destabilize the destruction complex
+4389	STAT1	Homo sapiens	KEGG	Chemokine signaling pathway
+18628	PSMD2	Homo sapiens	REACTOME	M Phase
+18744	JAK1	Homo sapiens	REACTOME	Signaling by Interleukins
+18745	JAK1	Homo sapiens	REACTOME	VEGFA-VEGFR2 Pathway
+18748	JAK1	Homo sapiens	REACTOME	Signalling to ERKs
+18114	PSMD2	Homo sapiens	REACTOME	S45 mutants of beta-catenin aren't phosphorylated
+15869	CRKL	Homo sapiens	PID_NCI	IFN-gamma pathway
+18115	PSMD2	Homo sapiens	REACTOME	Hh ligand biogenesis disease
+13223	VAV1	Homo sapiens	REACTOME	G alpha (12/13) signalling events
+18444	PTPN1	Homo sapiens	REACTOME	Immune System
+18088	JAK1	Homo sapiens	REACTOME	MAP kinase activation in TLR cascade
+19856	JAK1	Homo sapiens	REACTOME	Hemostasis
+4143	SRF	Homo sapiens	PID_BIOCARTA	Hop pathway in cardiac development
+16649	PLAUR	Homo sapiens	REACTOME	Post-translational modification: synthesis of GPI-anchored proteins
+19852	JAK1	Homo sapiens	REACTOME	FCERI mediated MAPK activation
+13291	VAV1	Homo sapiens	REACTOME	Signaling by ERBB2
+18059	PTPN1	Homo sapiens	REACTOME	Interferon Signaling
+16163	CRKL	Homo sapiens	INOH	GPCR Adenosine A2A receptor signaling pathway
+17476	NFKB1	Homo sapiens	REACTOME	Innate Immune System
+17433	NCOA1	Homo sapiens	REACTOME	Mitochondrial biogenesis
+15910	VAV1	Homo sapiens	NETPATH	KitReceptor
+13079	IL6ST	Homo sapiens	REACTOME	Interleukin-6 signaling
+15297	STAT1	Homo sapiens	PID_NCI	EPO signaling pathway
+15916	VAV1	Homo sapiens	NETPATH	BCR
+15915	VAV1	Homo sapiens	NETPATH	TCR
+19841	JAK1	Homo sapiens	REACTOME	Signaling by Leptin
+15918	VAV1	Homo sapiens	NETPATH	IL2
+568	JAK3	Homo sapiens	KEGG	Jak-STAT signaling pathway
+15908	VAV1	Homo sapiens	NETPATH	EGFR1
+17980	CBL	Homo sapiens	REACTOME	Signal Transduction
+15393	STAT5A	Homo sapiens	PID_NCI	Angiopoietin receptor Tie2-mediated signaling
+13286	VAV1	Homo sapiens	REACTOME	PI3K events in ERBB2 signaling
+10404	STAT1	Homo sapiens	KEGG	Hepatitis C
+18753	NR4A1	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+13094	PSMD2	Homo sapiens	REACTOME	Activation of NF-kappaB in B cells
+15182	PLAUR	Homo sapiens	PID_NCI	Beta2 integrin cell surface interactions
+18888	LYN	Homo sapiens	REACTOME	Fcgamma receptor (FCGR) dependent phagocytosis
+17863	NFKB1	Homo sapiens	REACTOME	p75NTR signals via NF-kB
+4123	SRF	Homo sapiens	PID_BIOCARTA	Role of mal in rho-mediated activation of srf
+17226	KPNA1	Homo sapiens	REACTOME	Antiviral mechanism by IFN-stimulated genes
+10366	IKBKG	Homo sapiens	KEGG	Chagas disease (American trypanosomiasis)
+10367	IKBKG	Homo sapiens	KEGG	Osteoclast differentiation
+19807	VCP	Homo sapiens	REACTOME	Disease
+14995	BIRC3	Homo sapiens	PID_NCI	Caspase Cascade in Apoptosis
+8112	IKBKG	Homo sapiens	KEGG	NOD-like receptor signaling pathway
+15876	PTPN6	Homo sapiens	PID_NCI	Posttranslational regulation of adherens junction stability and dissassembly
+4011	JAK3	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+8117	IKBKG	Homo sapiens	KEGG	Cytosolic DNA-sensing pathway
+16752	VCP	Homo sapiens	REACTOME	Processing-defective Hh variants abrogate ligand secretion
+4019	JAK3	Homo sapiens	PID_BIOCARTA	Role of erbb2 in signal transduction and oncology
+10374	IKBKG	Homo sapiens	KEGG	Shigellosis
+19282	PSMD2	Homo sapiens	REACTOME	Class I MHC mediated antigen processing & presentation
+13265	VAV1	Homo sapiens	REACTOME	Signaling by ERBB4
+13266	VAV1	Homo sapiens	REACTOME	Rho GTPase cycle
+13263	VAV1	Homo sapiens	REACTOME	PI3K events in ERBB4 signaling
+19507	JAK1	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+18059	JAK1	Homo sapiens	REACTOME	Interferon Signaling
+19852	VAV1	Homo sapiens	REACTOME	FCERI mediated MAPK activation
+416	GHR	Homo sapiens	KEGG	Neuroactive ligand-receptor interaction
+19856	VAV1	Homo sapiens	REACTOME	Hemostasis
+19807	STAM2	Homo sapiens	REACTOME	Disease
+19454	CBL	Homo sapiens	REACTOME	TGFBR2 Kinase Domain Mutants in Cancer
+13268	CBL	Homo sapiens	REACTOME	TGF-beta receptor signaling activates SMADs
+3941	NCOA1	Homo sapiens	PID_BIOCARTA	Nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells
+4034	NCOA1	Homo sapiens	PID_BIOCARTA	Role of ppar-gamma coactivators in obesity and thermogenesis
+13879	PPARG	Homo sapiens	REACTOME	Transcriptional regulation of white adipocyte differentiation
+4386	STAM2	Homo sapiens	KEGG	Endocytosis
+4169	LYN	Homo sapiens	PID_BIOCARTA	Phosphoinositides and their downstream targets
+4058	GSK3B	Homo sapiens	PID_BIOCARTA	Nfat and hypertrophy of the heart 
+15913	BCL3	Homo sapiens	NETPATH	TNFalpha
+15913	TBK1	Homo sapiens	NETPATH	TNFalpha
+489	PLD3	Homo sapiens	KEGG	Glycerophospholipid metabolism
+18753	TYK2	Homo sapiens	REACTOME	NGF signalling via TRKA from the plasma membrane
+16799	NFKB1	Homo sapiens	REACTOME	FCERI mediated NF-kB activation
+16794	NFKB1	Homo sapiens	REACTOME	Developmental Biology
+17632	STAT5A	Homo sapiens	REACTOME	Signaling by FGFR1 mutants
+18088	IKBKG	Homo sapiens	REACTOME	MAP kinase activation in TLR cascade
+14953	SRF	Homo sapiens	PID_NCI	Trk receptor signaling mediated by the MAPK pathway
+4029	NCOA1	Homo sapiens	PID_BIOCARTA	Control of gene expression by vitamin d receptor
+14930	PTPN6	Homo sapiens	PID_NCI	TCR signaling in naïve CD8+ T cells
+10385	JAK1	Homo sapiens	KEGG	Toxoplasmosis
+3965	NCOA1	Homo sapiens	PID_BIOCARTA	Mechanism of gene regulation by peroxisome proliferators via ppara
+18661	GSK3B	Homo sapiens	REACTOME	phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the destruction complex
+17191	LYN	Homo sapiens	REACTOME	EPHB-mediated forward signaling
+17789	LYN	Homo sapiens	REACTOME	Axon guidance
+16831	NFKBIB	Homo sapiens	REACTOME	Toll Like Receptor 7/8 (TLR7/8) Cascade
+18444	STAT1	Homo sapiens	REACTOME	Immune System
+15384	NFKBIB	Homo sapiens	PID_NCI	BCR signaling pathway
+15404	PTPN6	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+18059	PTPN6	Homo sapiens	REACTOME	Interferon Signaling
+4041	GSK3B	Homo sapiens	PID_BIOCARTA	Regulation of eif2
+17476	IKBKG	Homo sapiens	REACTOME	Innate Immune System
+15908	CBL	Homo sapiens	NETPATH	EGFR1
+17418	IRS2	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13027	NFKB1	Homo sapiens	REACTOME	TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+19698	IKBKG	Homo sapiens	REACTOME	Downstream signaling events of B Cell Receptor (BCR)
+15297	NFKB1	Homo sapiens	PID_NCI	EPO signaling pathway
+15908	PTPN1	Homo sapiens	NETPATH	EGFR1
+4166	BIRC3	Homo sapiens	PID_BIOCARTA	Caspase cascade in apoptosis
+15082	SRF	Homo sapiens	PID_NCI	Coregulation of Androgen receptor activity
+3978	NFKB1	Homo sapiens	PID_BIOCARTA	Nf-kb signaling pathway
+424	IKBKG	Homo sapiens	KEGG	Acute myeloid leukemia
+568	STAT5A	Homo sapiens	KEGG	Jak-STAT signaling pathway
+15022	KPNA1	Homo sapiens	PID_NCI	Class I PI3K signaling events mediated by Akt
+19195	NR4A1	Homo sapiens	REACTOME	PI3K/AKT Signaling in Cancer
+13010	NFKB1	Homo sapiens	REACTOME	ZBP1(DAI) mediated induction of type I IFNs
+13017	NFKB1	Homo sapiens	REACTOME	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+13015	NFKB1	Homo sapiens	REACTOME	TRAF6 mediated NF-kB activation
+18444	LYN	Homo sapiens	REACTOME	Immune System
+13215	CBL	Homo sapiens	REACTOME	EGFR downregulation
+13216	CBL	Homo sapiens	REACTOME	Signaling by EGFR
+15439	PTPN6	Homo sapiens	PID_NCI	IL4-mediated signaling events
+4156	VAV1	Homo sapiens	PID_BIOCARTA	T cell receptor signaling pathway
+15366	HDAC5	Homo sapiens	PID_NCI	Signaling events mediated by HDAC Class II
+4022	GSK3B	Homo sapiens	PID_BIOCARTA	Inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages
+4379	CRKL	Homo sapiens	KEGG	Neurotrophin signaling pathway
+19807	NOTCH1	Homo sapiens	REACTOME	Disease
+13008	NFKB1	Homo sapiens	REACTOME	RIP-mediated NFkB activation via ZBP1
+17662	JAK1	Homo sapiens	REACTOME	Platelet activation, signaling and aggregation
+13048	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 5 (TLR5) Cascade
+13043	NFKB1	Homo sapiens	REACTOME	MyD88 cascade initiated on plasma membrane
+13044	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 10 (TLR10) Cascade
+8112	NFKB1	Homo sapiens	KEGG	NOD-like receptor signaling pathway
+13046	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 4 (TLR4) Cascade
+16723	NFKB1	Homo sapiens	REACTOME	Cellular responses to stress
+18371	PSMD2	Homo sapiens	REACTOME	Adaptive Immune System
+15082	PELP1	Homo sapiens	PID_NCI	Coregulation of Androgen receptor activity
+19429	PLD3	Homo sapiens	REACTOME	Metabolism
+13040	NFKB1	Homo sapiens	REACTOME	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+18744	TYK2	Homo sapiens	REACTOME	Signaling by Interleukins
+17476	IRS2	Homo sapiens	REACTOME	Innate Immune System
+13718	HDAC5	Homo sapiens	REACTOME	Constitutive Signaling by NOTCH1 PEST Domain Mutants
+13041	NFKB1	Homo sapiens	REACTOME	MyD88 dependent cascade initiated on endosome
+18745	TYK2	Homo sapiens	REACTOME	VEGFA-VEGFR2 Pathway
+15404	SOCS1	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+13042	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 9 (TLR9) Cascade
+18627	GSK3B	Homo sapiens	REACTOME	truncations of AMER1 destabilize the destruction complex
+18748	TYK2	Homo sapiens	REACTOME	Signalling to ERKs
+4139	BIRC3	Homo sapiens	PID_BIOCARTA	Sodd/tnfr1 signaling pathway
+16509	IL6ST	Homo sapiens	NETPATH	IL11
+17495	ITGB3BP	Homo sapiens	REACTOME	Chromosome Maintenance
+15913	PSMD2	Homo sapiens	NETPATH	TNFalpha
+4120	VAV1	Homo sapiens	PID_BIOCARTA	Rac1 cell motility signaling pathway
+519	BIRC3	Homo sapiens	KEGG	Ubiquitin mediated proteolysis
+4180	STAT5A	Homo sapiens	PID_BIOCARTA	Il-7 signal transduction
+18377	PSMD2	Homo sapiens	REACTOME	Metabolism of amino acids and derivatives
+13007	LYN	Homo sapiens	REACTOME	FCGR activation
+17418	IKBKG	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+8117	NFKB1	Homo sapiens	KEGG	Cytosolic DNA-sensing pathway
+13036	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor TLR6:TLR2 Cascade
+13720	HDAC5	Homo sapiens	REACTOME	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+13034	NFKB1	Homo sapiens	REACTOME	MyD88:Mal cascade initiated on plasma membrane
+13035	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor TLR1:TLR2 Cascade
+13030	NFKB1	Homo sapiens	REACTOME	MyD88-independent cascade 
+15280	NFKB1	Homo sapiens	PID_NCI	Signaling events mediated by HDAC Class I
+13031	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 3 (TLR3) Cascade
+18059	STAT1	Homo sapiens	REACTOME	Interferon Signaling
+457	IKBKG	Homo sapiens	KEGG	Epithelial cell signaling in Helicobacter pylori infection
+4138	VAV1	Homo sapiens	PID_BIOCARTA	Pkc-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase
+4149	BIRC3	Homo sapiens	PID_BIOCARTA	Ceramide signaling pathway
+527	BIRC3	Homo sapiens	KEGG	Small cell lung cancer
+17802	NFKB1	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+4359	CRKL	Homo sapiens	KEGG	Fc gamma R-mediated phagocytosis
+10404	NFKB1	Homo sapiens	KEGG	Hepatitis C
+13779	XRCC5	Homo sapiens	REACTOME	Early Phase of HIV Life Cycle
+16943	GSK3B	Homo sapiens	REACTOME	misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling
+15420	JAK1	Homo sapiens	PID_NCI	Signaling events mediated by TCPTP
+13774	XRCC5	Homo sapiens	REACTOME	Integration of provirus
+4183	VAV1	Homo sapiens	PID_BIOCARTA	Fc epsilon receptor i signaling in mast cells
+15110	IKBKG	Homo sapiens	PID_NCI	TCR signaling in naïve CD4+ T cells
+15931	FBXW11	Homo sapiens	NETPATH	Prolactin
+13772	XRCC5	Homo sapiens	REACTOME	2-LTR circle formation
+16106	JAK1	Homo sapiens	INOH	IL-7 signaling
+15791	JAK3	Homo sapiens	PID_NCI	IL2 signaling events mediated by PI3K
+16108	JAK1	Homo sapiens	INOH	IL-4 signaling
+13320	IRS2	Homo sapiens	REACTOME	Signaling by FGFR
+13072	LYN	Homo sapiens	REACTOME	Growth hormone receptor signaling
+15044	JAK1	Homo sapiens	PID_NCI	IL2-mediated signaling events
+17694	PSMD2	Homo sapiens	REACTOME	degradation of DVL
+13068	NFKB1	Homo sapiens	REACTOME	Downstream TCR signaling
+18371	REL	Homo sapiens	REACTOME	Adaptive Immune System
+493	HSPA4	Homo sapiens	KEGG	Antigen processing and presentation
+17110	GSK3B	Homo sapiens	REACTOME	AXIN missense mutants destabilize the destruction complex
+4011	SOCS1	Homo sapiens	PID_BIOCARTA	Il-2 receptor beta chain in t cell activation
+19071	LYN	Homo sapiens	REACTOME	EPH-ephrin mediated repulsion of cells
+3948	TYK2	Homo sapiens	PID_BIOCARTA	Ifn alpha signaling pathway
+13325	IRS2	Homo sapiens	REACTOME	Signaling by SCF-KIT
+16513	IL6ST	Homo sapiens	NETPATH	Oncostatin_M
+13329	IRS2	Homo sapiens	REACTOME	Downstream signal transduction
+15439	JAK1	Homo sapiens	PID_NCI	IL4-mediated signaling events
+13330	IRS2	Homo sapiens	REACTOME	Signaling by PDGF
+13080	LYN	Homo sapiens	REACTOME	Regulation of signaling by CBL
+13082	LYN	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+17105	GSK3B	Homo sapiens	REACTOME	Semaphorin interactions
+3943	TYK2	Homo sapiens	PID_BIOCARTA	No2-dependent il-12 pathway in nk cells
+16818	TYK2	Homo sapiens	REACTOME	Signalling by NGF
+15826	JAK1	Homo sapiens	PID_NCI	IL6-mediated signaling events
+485	IKBKG	Homo sapiens	KEGG	Apoptosis
+487	IKBKG	Homo sapiens	KEGG	MAPK signaling pathway
+15010	NR4A1	Homo sapiens	PID_NCI	RXR and RAR heterodimerization with other nuclear receptor
+4389	CRKL	Homo sapiens	KEGG	Chemokine signaling pathway
+17736	ITGB3BP	Homo sapiens	REACTOME	Nucleosome assembly
+13085	NFKB1	Homo sapiens	REACTOME	Interleukin-1 processing
+16163	CBL	Homo sapiens	INOH	GPCR Adenosine A2A receptor signaling pathway
+4101	BIRC3	Homo sapiens	PID_BIOCARTA	Hiv-1 nef: negative effector of fas and tnf
+5713	NFKB1	Homo sapiens	KEGG	RIG-I-like receptor signaling pathway
+16125	GHR	Homo sapiens	INOH	JAK STAT pathway and regulation
+13715	IRS2	Homo sapiens	REACTOME	Constitutive PI3K/AKT Signaling in Cancer
+17767	BIRC3	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+16831	TYK2	Homo sapiens	REACTOME	Toll Like Receptor 7/8 (TLR7/8) Cascade
+17418	IRF8	Homo sapiens	REACTOME	Cytokine Signaling in Immune system
+13309	IRS2	Homo sapiens	REACTOME	PI-3K cascade
+4397	CRKL	Homo sapiens	KEGG	Pathways in cancer
+15439	SOCS1	Homo sapiens	PID_NCI	IL4-mediated signaling events
+2800	XRCC5	Homo sapiens	KEGG	Non-homologous end-joining
+568	TYK2	Homo sapiens	KEGG	Jak-STAT signaling pathway
+16839	TYK2	Homo sapiens	REACTOME	Signaling by EGFR in Cancer
+17272	PSMD2	Homo sapiens	REACTOME	Signaling by Wnt
+13078	NFKB1	Homo sapiens	REACTOME	Interleukin-1 signaling
+15915	CBL	Homo sapiens	NETPATH	TCR
+15916	CBL	Homo sapiens	NETPATH	BCR
+15919	CBL	Homo sapiens	NETPATH	IL3
+15918	CBL	Homo sapiens	NETPATH	IL2
+10363	VCP	Homo sapiens	KEGG	Protein processing in endoplasmic reticulum
+19282	SOCS1	Homo sapiens	REACTOME	Class I MHC mediated antigen processing & presentation
+15910	CBL	Homo sapiens	NETPATH	KitReceptor
+582	NFKB1	Homo sapiens	KEGG	Chronic myeloid leukemia
+16149	GHR	Homo sapiens	INOH	Growth hormone signaling
+13178	GSK3B	Homo sapiens	REACTOME	PI3K/AKT activation
+15925	CBL	Homo sapiens	NETPATH	RANKL
+15920	CBL	Homo sapiens	NETPATH	IL4
+15869	SOCS1	Homo sapiens	PID_NCI	IFN-gamma pathway
+19119	ITGB3BP	Homo sapiens	REACTOME	Cell Cycle, Mitotic
+15922	CBL	Homo sapiens	NETPATH	IL6
+16239	STAT1	Homo sapiens	INOH	IFN alpha signaling
+15921	CBL	Homo sapiens	NETPATH	IL5
+15583	STAT1	Homo sapiens	PID_NCI	SHP2 signaling
+593	NFKB1	Homo sapiens	KEGG	Pancreatic cancer
+15869	JAK1	Homo sapiens	PID_NCI	IFN-gamma pathway
+590	NFKB1	Homo sapiens	KEGG	Adipocytokine signaling pathway
+15033	GSK3B	Homo sapiens	PID_NCI	BMP receptor signaling
+15900	IKBKG	Homo sapiens	PID_NCI	FAS (CD95) signaling pathway
+13094	NFKB1	Homo sapiens	REACTOME	Activation of NF-kappaB in B cells
+15024	PPARG	Homo sapiens	PID_NCI	Regulation of retinoblastoma protein
+4063	GHR	Homo sapiens	PID_BIOCARTA	Trefoil factors initiate mucosal healing
+13087	LYN	Homo sapiens	REACTOME	CTLA4 inhibitory signaling
+15913	FBXW11	Homo sapiens	NETPATH	TNFalpha
+4068	GHR	Homo sapiens	PID_BIOCARTA	Regulation of eif-4e and p70s6 kinase
+19186	CRKL	Homo sapiens	REACTOME	Prolonged ERK activation events
+15931	CBL	Homo sapiens	NETPATH	Prolactin
+13073	IFNAR1	Homo sapiens	REACTOME	Regulation of IFNA signaling
+563	NFKB1	Homo sapiens	KEGG	T cell receptor signaling pathway
+15008	GSK3B	Homo sapiens	PID_NCI	LPA receptor mediated events
+564	NFKB1	Homo sapiens	KEGG	Toll-like receptor signaling pathway
+13092	LYN	Homo sapiens	REACTOME	Costimulation by the CD28 family
+532	LYN	Homo sapiens	KEGG	B cell receptor signaling pathway
+15906	HSPA4	Homo sapiens	NETPATH	AndrogenReceptor
+13090	LYN	Homo sapiens	REACTOME	CD28 co-stimulation
+19096	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH1
+13074	IFNAR1	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+13095	LYN	Homo sapiens	REACTOME	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+15908	HSPA4	Homo sapiens	NETPATH	EGFR1
+18444	JAK1	Homo sapiens	REACTOME	Immune System
+18744	STAT5A	Homo sapiens	REACTOME	Signaling by Interleukins
+16879	TYK2	Homo sapiens	REACTOME	Downstream signaling of activated FGFR
+19900	ITGB3BP	Homo sapiens	REACTOME	Mitotic Metaphase and Anaphase
+19770	NR4A1	Homo sapiens	REACTOME	Gene Expression
+16917	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+13879	NFKB1	Homo sapiens	REACTOME	Transcriptional regulation of white adipocyte differentiation
+15913	UNC5CL	Homo sapiens	NETPATH	TNFalpha
+16222	STAT1	Homo sapiens	INOH	IFN gamma signaling
+18371	CBL	Homo sapiens	REACTOME	Adaptive Immune System
+15346	CBL	Homo sapiens	PID_NCI	FGF signaling pathway
+15919	CRKL	Homo sapiens	NETPATH	IL3
+15925	STAT1	Homo sapiens	NETPATH	RANKL
+13647	NCOA1	Homo sapiens	REACTOME	Endogenous sterols
+15918	CRKL	Homo sapiens	NETPATH	IL2
+15924	STAT1	Homo sapiens	NETPATH	IL9
+15923	STAT1	Homo sapiens	NETPATH	IL-7
+15916	CRKL	Homo sapiens	NETPATH	BCR
+16656	STAT1	Homo sapiens	REACTOME	Signaling by FGFR in disease
+15922	STAT1	Homo sapiens	NETPATH	IL6
+15915	CRKL	Homo sapiens	NETPATH	TCR
+13330	STAT5A	Homo sapiens	REACTOME	Signaling by PDGF
+15921	STAT1	Homo sapiens	NETPATH	IL5
+15920	STAT1	Homo sapiens	NETPATH	IL4
+3948	JAK1	Homo sapiens	PID_BIOCARTA	Ifn alpha signaling pathway
+15928	STAT1	Homo sapiens	NETPATH	TSLP
+18642	XRCC5	Homo sapiens	REACTOME	HIV Life Cycle
+15927	STAT1	Homo sapiens	NETPATH	TSH
+17628	PSMD2	Homo sapiens	REACTOME	APC truncation mutants have impaired AXIN binding
+19734	PSMD2	Homo sapiens	REACTOME	Regulation of Apoptosis
+15926	STAT1	Homo sapiens	NETPATH	Leptin
+4113	GHR	Homo sapiens	PID_BIOCARTA	Growth hormone signaling pathway
+16950	PSMD2	Homo sapiens	REACTOME	Synthesis of DNA
+13329	STAT5A	Homo sapiens	REACTOME	Downstream signal transduction
+4110	GHR	Homo sapiens	PID_BIOCARTA	Mtor signaling pathway
+16106	TYK2	Homo sapiens	INOH	IL-7 signaling
+15910	CRKL	Homo sapiens	NETPATH	KitReceptor
+3954	JAK1	Homo sapiens	PID_BIOCARTA	Il 2 signaling pathway
+3967	PTPN6	Homo sapiens	PID_BIOCARTA	Il 3 signaling pathway
+15931	LYN	Homo sapiens	NETPATH	Prolactin
+13325	STAT5A	Homo sapiens	REACTOME	Signaling by SCF-KIT
+15908	CRKL	Homo sapiens	NETPATH	EGFR1
+15061	GSK3B	Homo sapiens	PID_NCI	Reelin signaling pathway
+15312	VAV1	Homo sapiens	PID_NCI	Regulation of RhoA activity
+17226	JAK1	Homo sapiens	REACTOME	Antiviral mechanism by IFN-stimulated genes
+15931	STAT1	Homo sapiens	NETPATH	Prolactin
+435	LYN	Homo sapiens	KEGG	Fc epsilon RI signaling pathway
+3970	NR3C1	Homo sapiens	PID_BIOCARTA	Corticosteroids and cardioprotection
+4085	NR4A1	Homo sapiens	PID_BIOCARTA	Role of mef2d in t-cell apoptosis
+15922	LYN	Homo sapiens	NETPATH	IL6
+15925	LYN	Homo sapiens	NETPATH	RANKL
+17662	VAV1	Homo sapiens	REACTOME	Platelet activation, signaling and aggregation
+3973	NR3C1	Homo sapiens	PID_BIOCARTA	Rna polymerase iii transcription
+17980	HDAC5	Homo sapiens	REACTOME	Signal Transduction
+4392	PPARG	Homo sapiens	KEGG	Huntington's disease
+15928	LYN	Homo sapiens	NETPATH	TSLP
+4397	PPARG	Homo sapiens	KEGG	Pathways in cancer
+16943	PSMD2	Homo sapiens	REACTOME	misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling
+15921	LYN	Homo sapiens	NETPATH	IL5
+15154	STAT1	Homo sapiens	PID_NCI	TNF receptor signaling pathway
+13184	JAK1	Homo sapiens	REACTOME	Signalling to RAS
+13183	JAK1	Homo sapiens	REACTOME	Signalling to p38 via RIT and RIN
+13668	NCOA1	Homo sapiens	REACTOME	RORA activates circadian gene expression
+16151	JAK1	Homo sapiens	INOH	EPO signaling pathway
+15919	LYN	Homo sapiens	NETPATH	IL3
+15094	FBXW11	Homo sapiens	PID_NCI	Presenilin action in Notch and Wnt signaling
+19869	CBL	Homo sapiens	REACTOME	Signaling by TGF-beta Receptor Complex
+15918	LYN	Homo sapiens	NETPATH	IL2
+16125	TYK2	Homo sapiens	INOH	JAK STAT pathway and regulation
+15916	LYN	Homo sapiens	NETPATH	BCR
+15656	NCOA1	Homo sapiens	PID_NCI	Regulation of Androgen receptor activity
+15915	LYN	Homo sapiens	NETPATH	TCR
+16159	JAK1	Homo sapiens	INOH	IL-5 signaling
+13843	XRCC5	Homo sapiens	REACTOME	Nonhomologous End-joining (NHEJ)
+16155	JAK1	Homo sapiens	INOH	IL-6 signaling
+13842	XRCC5	Homo sapiens	REACTOME	Processing of DNA ends prior to end rejoining
+15910	LYN	Homo sapiens	NETPATH	KitReceptor
+18444	JAK3	Homo sapiens	REACTOME	Immune System
+16723	HMGA2	Homo sapiens	REACTOME	Cellular responses to stress
+13181	JAK1	Homo sapiens	REACTOME	ARMS-mediated activation
+17097	IKBKG	Homo sapiens	REACTOME	TCR signaling
+13180	JAK1	Homo sapiens	REACTOME	Frs2-mediated activation
+457	LYN	Homo sapiens	KEGG	Epithelial cell signaling in Helicobacter pylori infection
+18444	PTPN6	Homo sapiens	REACTOME	Immune System
+13414	PSMD2	Homo sapiens	REACTOME	Regulation of activated PAK-2p34 by proteasome mediated degradation
+15908	LYN	Homo sapiens	NETPATH	EGFR1
+13671	NCOA1	Homo sapiens	REACTOME	REV-ERBA represses gene expression
+13670	NCOA1	Homo sapiens	REACTOME	BMAL1:CLOCK,NPAS2 activates circadian gene expression
+13672	NCOA1	Homo sapiens	REACTOME	Circadian Clock
+15046	GSK3B	Homo sapiens	PID_NCI	Aurora A signaling
+19507	TYK2	Homo sapiens	REACTOME	TRIF-mediated TLR3/TLR4 signaling 
+16169	JAK1	Homo sapiens	INOH	LIF signaling
+18059	IFNAR1	Homo sapiens	REACTOME	Interferon Signaling
+18305	BIRC3	Homo sapiens	REACTOME	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
+15133	STAT1	Homo sapiens	PID_NCI	IL27-mediated signaling events
+15044	JAK3	Homo sapiens	PID_NCI	IL2-mediated signaling events
+19772	PSMD2	Homo sapiens	REACTOME	S37 mutants of beta-catenin aren't phosphorylated
+16513	JAK1	Homo sapiens	NETPATH	Oncostatin_M
+10385	NFKBIB	Homo sapiens	KEGG	Toxoplasmosis
+13127	JAK1	Homo sapiens	REACTOME	GPVI-mediated activation cascade
+15634	PLAUR	Homo sapiens	PID_NCI	Beta3 integrin cell surface interactions
+19561	FBXW11	Homo sapiens	REACTOME	Signaling by the B Cell Receptor (BCR)
+13670	NR3C1	Homo sapiens	REACTOME	BMAL1:CLOCK,NPAS2 activates circadian gene expression
+16856	KPNA1	Homo sapiens	REACTOME	Interactions of Vpr with host cellular proteins
+15420	STAT5A	Homo sapiens	PID_NCI	Signaling events mediated by TCPTP
+3992	JAK1	Homo sapiens	PID_BIOCARTA	Il 6 signaling pathway
+15219	PLAUR	Homo sapiens	PID_NCI	Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling
+17980	TYK2	Homo sapiens	REACTOME	Signal Transduction
+16134	JAK1	Homo sapiens	INOH	IL-13 signaling
+13209	TYK2	Homo sapiens	REACTOME	SOS-mediated signalling
+19807	KPNA1	Homo sapiens	REACTOME	Disease
+19770	PSMD2	Homo sapiens	REACTOME	Gene Expression
+13216	TYK2	Homo sapiens	REACTOME	Signaling by EGFR
+17658	PSMD2	Homo sapiens	REACTOME	Degradation of GLI2 by the proteasome
+13214	TYK2	Homo sapiens	REACTOME	GRB2 events in EGFR signaling
+18776	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+10374	NFKBIB	Homo sapiens	KEGG	Shigellosis
+10404	JAK1	Homo sapiens	KEGG	Hepatitis C
+13213	TYK2	Homo sapiens	REACTOME	SHC1 events in EGFR signaling
+18444	IFNAR1	Homo sapiens	REACTOME	Immune System
+12981	SOCS1	Homo sapiens	REACTOME	Antigen processing: Ubiquitination & Proteasome degradation
+18642	KPNA1	Homo sapiens	REACTOME	HIV Life Cycle
+578	PTPN6	Homo sapiens	KEGG	Natural killer cell mediated cytotoxicity
+16853	KPNA1	Homo sapiens	REACTOME	Influenza Infection
+13672	NR3C1	Homo sapiens	REACTOME	Circadian Clock
+15154	IKBKG	Homo sapiens	PID_NCI	TNF receptor signaling pathway
+15404	STAT5A	Homo sapiens	PID_NCI	Signaling events mediated by Stem cell factor receptor (c-Kit)
+18444	TBK1	Homo sapiens	REACTOME	Immune System
+16144	JAK1	Homo sapiens	INOH	IL-2 signaling
+16190	JAK3	Homo sapiens	INOH	VEGF signaling pathway
+15469	IKBKG	Homo sapiens	PID_NCI	Canonical NF-kappaB pathway
+15908	JAK1	Homo sapiens	NETPATH	EGFR1
+13219	TYK2	Homo sapiens	REACTOME	Gastrin-CREB signalling pathway via PKC and MAPK
+17767	TBK1	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+15920	JAK1	Homo sapiens	NETPATH	IL4
+15921	JAK1	Homo sapiens	NETPATH	IL5
+15922	JAK1	Homo sapiens	NETPATH	IL6
+15923	JAK1	Homo sapiens	NETPATH	IL-7
+15924	JAK1	Homo sapiens	NETPATH	IL9
+15925	JAK1	Homo sapiens	NETPATH	RANKL
+15908	STAT1	Homo sapiens	NETPATH	EGFR1
+15926	JAK1	Homo sapiens	NETPATH	Leptin
+15845	IKBKG	Homo sapiens	PID_NCI	Endogenous TLR signaling
+15094	GSK3B	Homo sapiens	PID_NCI	Presenilin action in Notch and Wnt signaling
+16200	CRKL	Homo sapiens	INOH	HGF signaling pathway
+15122	IKBKG	Homo sapiens	PID_NCI	IL1-mediated signaling events
+19190	TBK1	Homo sapiens	REACTOME	Activated TLR4 signalling
+4119	TYK2	Homo sapiens	PID_BIOCARTA	Il22 soluble receptor signaling pathway
+19190	IKBKG	Homo sapiens	REACTOME	Activated TLR4 signalling
+15919	JAK1	Homo sapiens	NETPATH	IL3
+15918	JAK1	Homo sapiens	NETPATH	IL2
+16116	JAK1	Homo sapiens	INOH	IL-3 signaling
+531	IRS2	Homo sapiens	KEGG	Insulin signaling pathway
+15915	STAT1	Homo sapiens	NETPATH	TCR
+18983	ITGB3BP	Homo sapiens	REACTOME	Cell death signalling via NRAGE, NRIF and NADE
+15916	STAT1	Homo sapiens	NETPATH	BCR
+15931	JAK1	Homo sapiens	NETPATH	Prolactin
+15918	STAT1	Homo sapiens	NETPATH	IL2
+10355	NFKBIB	Homo sapiens	KEGG	Leishmaniasis
+15910	STAT1	Homo sapiens	NETPATH	KitReceptor
+15913	STAT1	Homo sapiens	NETPATH	TNFalpha
+18790	NOTCH1	Homo sapiens	REACTOME	Signaling by NOTCH
+15284	NOTCH1	Homo sapiens	PID_NCI	Notch-mediated HES/HEY network
+15427	STAT5A	Homo sapiens	PID_NCI	IL23-mediated signaling events
+17980	IRS2	Homo sapiens	REACTOME	Signal Transduction
+15695	NFKB1	Homo sapiens	PID_NCI	Fc-epsilon receptor I signaling in mast cells
+15321	GSK3B	Homo sapiens	PID_NCI	Glucocorticoid receptor regulatory network
+15928	JAK1	Homo sapiens	NETPATH	TSLP
+15927	JAK1	Homo sapiens	NETPATH	TSH
+16125	JAK1	Homo sapiens	INOH	JAK STAT pathway and regulation
+19807	IRS2	Homo sapiens	REACTOME	Disease
+15899	CBL	Homo sapiens	PID_NCI	Notch signaling pathway
+19772	GSK3B	Homo sapiens	REACTOME	S37 mutants of beta-catenin aren't phosphorylated
+15816	PTPN1	Homo sapiens	PID_NCI	PDGFR-beta signaling pathway
+18371	LYN	Homo sapiens	REACTOME	Adaptive Immune System
+15420	PTPN1	Homo sapiens	PID_NCI	Signaling events mediated by TCPTP
+19119	PSMD2	Homo sapiens	REACTOME	Cell Cycle, Mitotic
+19496	LYN	Homo sapiens	REACTOME	FCERI mediated Ca+2 mobilization
+15262	IRS2	Homo sapiens	PID_NCI	IGF1 pathway
+17260	CBL	Homo sapiens	REACTOME	Signaling by TGF-beta Receptor Complex in Cancer
+15598	LYN	Homo sapiens	PID_NCI	GMCSF-mediated signaling events
+19119	FBXW11	Homo sapiens	REACTOME	Cell Cycle, Mitotic
+16831	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 7/8 (TLR7/8) Cascade
+17038	PLAUR	Homo sapiens	REACTOME	Post-translational protein modification
+16818	NFKB1	Homo sapiens	REACTOME	Signalling by NGF
+13127	JAK3	Homo sapiens	REACTOME	GPVI-mediated activation cascade
+18395	NFKB1	Homo sapiens	REACTOME	DEx/H-box helicases activate type I IFN and inflammatory cytokines production 
+532	PTPN6	Homo sapiens	KEGG	B cell receptor signaling pathway
+18776	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+13092	PTPN6	Homo sapiens	REACTOME	Costimulation by the CD28 family
+13091	PTPN6	Homo sapiens	REACTOME	PD-1 signaling
+16125	PTPN6	Homo sapiens	INOH	JAK STAT pathway and regulation
+15166	IFNAR1	Homo sapiens	PID_NCI	Downstream signaling in naïve CD8+ T cells
+13306	CBL	Homo sapiens	REACTOME	Negative regulation of FGFR signaling
+13305	CBL	Homo sapiens	REACTOME	Spry regulation of FGF signaling
+17802	IKBKG	Homo sapiens	REACTOME	Fc epsilon receptor (FCERI) signaling
+16106	STAT5A	Homo sapiens	INOH	IL-7 signaling
+16218	CRKL	Homo sapiens	INOH	GPCR signaling
+4135	STAT5A	Homo sapiens	PID_BIOCARTA	Bioactive peptide induced signaling pathway
+17662	PTPN1	Homo sapiens	REACTOME	Platelet activation, signaling and aggregation
+568	PTPN6	Homo sapiens	KEGG	Jak-STAT signaling pathway
+13320	CBL	Homo sapiens	REACTOME	Signaling by FGFR
+15835	PTPN1	Homo sapiens	PID_NCI	Insulin Pathway
+563	PTPN6	Homo sapiens	KEGG	T cell receptor signaling pathway
+19129	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH1 HD Domain Mutants in Cancer
+18732	PSMD2	Homo sapiens	REACTOME	TCF dependent signaling in response to WNT
+16116	STAT5A	Homo sapiens	INOH	IL-3 signaling
+18444	FBXW11	Homo sapiens	REACTOME	Immune System
+13075	STAT1	Homo sapiens	REACTOME	ISG15 antiviral mechanism
+17710	NFKB1	Homo sapiens	REACTOME	Toll Like Receptor 2 (TLR2) Cascade
+461	STAT5A	Homo sapiens	KEGG	ErbB signaling pathway
+19193	CBL	Homo sapiens	REACTOME	Loss of Function of TGFBR1 in Cancer
+13127	VAV1	Homo sapiens	REACTOME	GPVI-mediated activation cascade
+13325	CBL	Homo sapiens	REACTOME	Signaling by SCF-KIT
+13324	CBL	Homo sapiens	REACTOME	Regulation of KIT signaling
+18790	HDAC5	Homo sapiens	REACTOME	Signaling by NOTCH
+16920	PLD3	Homo sapiens	REACTOME	Metabolism of lipids and lipoproteins
+16509	JAK1	Homo sapiens	NETPATH	IL11
+16920	PPARG	Homo sapiens	REACTOME	Metabolism of lipids and lipoproteins
+577	IRS2	Homo sapiens	KEGG	Type II diabetes mellitus
+16125	STAT5A	Homo sapiens	INOH	JAK STAT pathway and regulation
+14893	STAT5A	Homo sapiens	PID_NCI	Trk receptor signaling mediated by PI3K and PLC-gamma
+17104	KPNA1	Homo sapiens	REACTOME	Apoptosis induced DNA fragmentation
+15853	PTPN1	Homo sapiens	PID_NCI	N-cadherin signaling events
+17544	PLD3	Homo sapiens	REACTOME	Glycerophospholipid biosynthesis
+13296	HDAC5	Homo sapiens	REACTOME	NOTCH1 Intracellular Domain Regulates Transcription
+19152	PSMD2	Homo sapiens	REACTOME	TCF7L2 mutants don't bind CTBP
+505	PTPN6	Homo sapiens	KEGG	Adherens junction
+590	IRS2	Homo sapiens	KEGG	Adipocytokine signaling pathway
+4113	STAT5A	Homo sapiens	PID_BIOCARTA	Growth hormone signaling pathway
+13289	TYK2	Homo sapiens	REACTOME	SHC1 events in ERBB2 signaling
+19807	CBL	Homo sapiens	REACTOME	Disease
+13287	TYK2	Homo sapiens	REACTOME	GRB2 events in ERBB2 signaling
+4119	STAT5A	Homo sapiens	PID_BIOCARTA	Il22 soluble receptor signaling pathway
+13283	TYK2	Homo sapiens	REACTOME	SHC-related events triggered by IGF1R
+13284	TYK2	Homo sapiens	REACTOME	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+13281	TYK2	Homo sapiens	REACTOME	Signaling by Insulin receptor
+13282	TYK2	Homo sapiens	REACTOME	IRS-related events triggered by IGF1R
+16794	NOTCH1	Homo sapiens	REACTOME	Developmental Biology
+19164	PSMD2	Homo sapiens	REACTOME	HIV Infection
+10404	TYK2	Homo sapiens	KEGG	Hepatitis C
+19856	PTPN1	Homo sapiens	REACTOME	Hemostasis
+4124	STAT5A	Homo sapiens	PID_BIOCARTA	Tpo signaling pathway
+18744	CBL	Homo sapiens	REACTOME	Signaling by Interleukins
+13291	TYK2	Homo sapiens	REACTOME	Signaling by ERBB2
+15916	HDAC5	Homo sapiens	NETPATH	BCR
+15876	PTPN1	Homo sapiens	PID_NCI	Posttranslational regulation of adherens junction stability and dissassembly
+13082	PTPN6	Homo sapiens	REACTOME	Interleukin-3, 5 and GM-CSF signaling
+15185	STAT1	Homo sapiens	PID_NCI	IL12-mediated signaling events
+16108	PTPN6	Homo sapiens	INOH	IL-4 signaling
+13083	PTPN6	Homo sapiens	REACTOME	Interleukin-2 signaling
+19131	PSMD2	Homo sapiens	REACTOME	RNF mutants show enhanced WNT signaling and proliferation
+13081	PTPN6	Homo sapiens	REACTOME	Interleukin receptor SHC signaling
+18744	LYN	Homo sapiens	REACTOME	Signaling by Interleukins
+17767	NFKB1	Homo sapiens	REACTOME	Toll-Like Receptors Cascades
+3944	NR3C1	Homo sapiens	PID_BIOCARTA	The information processing pathway at the ifn beta enhancer
+485	BIRC3	Homo sapiens	KEGG	Apoptosis
+3941	NR3C1	Homo sapiens	PID_BIOCARTA	Nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells
+13265	TYK2	Homo sapiens	REACTOME	Signaling by ERBB4
+13325	SOCS1	Homo sapiens	REACTOME	Signaling by SCF-KIT
+13324	SOCS1	Homo sapiens	REACTOME	Regulation of KIT signaling
+16190	JAK1	Homo sapiens	INOH	VEGF signaling pathway
+19000	JAK1	Homo sapiens	REACTOME	IGF1R signaling cascade
+13261	TYK2	Homo sapiens	REACTOME	SHC1 events in ERBB4 signaling
+13178	VAV1	Homo sapiens	REACTOME	PI3K/AKT activation
+13072	PTPN6	Homo sapiens	REACTOME	Growth hormone receptor signaling
+15921	CRKL	Homo sapiens	NETPATH	IL5
+15826	IL6ST	Homo sapiens	PID_NCI	IL6-mediated signaling events
+18371	NFKB1	Homo sapiens	REACTOME	Adaptive Immune System
+13077	PTPN6	Homo sapiens	REACTOME	Interferon gamma signaling
+13073	PTPN6	Homo sapiens	REACTOME	Regulation of IFNA signaling
+4183	LYN	Homo sapiens	PID_BIOCARTA	Fc epsilon receptor i signaling in mast cells
+13074	PTPN6	Homo sapiens	REACTOME	Interferon alpha/beta signaling
+17567	GSK3B	Homo sapiens	REACTOME	disassembly of the destruction complex and recruitment of AXIN to the membrane
+19807	HDAC5	Homo sapiens	REACTOME	Disease
+13076	PTPN6	Homo sapiens	REACTOME	Regulation of IFNG signaling
+18844	JAK1	Homo sapiens	REACTOME	IRS-related events
+13279	TYK2	Homo sapiens	REACTOME	SHC-mediated signalling
+14943	PTPN2	Homo sapiens	PID_NCI	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)
+19000	TYK2	Homo sapiens	REACTOME	IGF1R signaling cascade
+15297	IRS2	Homo sapiens	PID_NCI	EPO signaling pathway
+13421	KPNA1	Homo sapiens	REACTOME	Apoptotic execution  phase
+13420	KPNA1	Homo sapiens	REACTOME	Activation of DNA fragmentation factor

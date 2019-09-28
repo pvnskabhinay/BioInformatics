@@ -1,0 +1,10 @@
+,0
+Nodes,8
+Links,17
+Avg Path Length,1.7142857142857142
+Avg Degree,"{2: 6.0, 7: 3.4285714285714284, 5: 3.8, 4: 3.5, 3: 4.333333333333333}"
+Avg Degree Val,4.25
+Avg Clustering Coeff,0.3041666666666667
+Network Diameter,3
+Network Radius,2
+Centralization,0.06413994169096211
